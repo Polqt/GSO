@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sf-pro: "SF Pro";
+  --font-archivo: Archivo;
+  --font-abeezee: ABeeZee;
+  --font-kanit: Kanit;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-lg-5: 18.5px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-seagreen: #006633;
+  --color-white: #fff;
+  --color-dimgray: #707070;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-mini: 15px;
+}

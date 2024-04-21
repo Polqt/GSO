@@ -177,9 +177,26 @@
 .toggle-password {
   position: absolute;
   top: 50%;
-  right: 10px; /* Adjust the right position as needed */
+  right: 10px; 
   transform: translateY(-50%);
   background: none;
   border: none;
   cursor: pointer;
+}
+
+.input-field::placeholder {
+  font-family: var(--font-sf-pro);
+}
+
+.input-field {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  width: calc(100% - 20px);
+  height: 35px;
+  padding: 8px;
+  padding-right: 40px; 
+  border: 1px solid transparent;
+  font-size: 16px;
+  text-align: left;
 }

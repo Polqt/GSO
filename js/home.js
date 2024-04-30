@@ -4,3 +4,4 @@ if (maskGroupImage) {
     window.location.href = "./login.html";
   });
 }
+

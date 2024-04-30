@@ -5,3 +5,9 @@ if (maskGroupImage) {
   });
 }
 
+var logoutIcon = document.getElementById("logoutIcon");
+if (logoutIcon) {
+  logoutIcon.addEventListener("click", function (E) {
+    window.location.href = "./login.html";
+  });
+}

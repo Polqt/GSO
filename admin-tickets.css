@@ -123,7 +123,6 @@
 .tickets {
   top: 108px;
   left: 50px;
-  color: var(--color-forestgreen);
   display: flex;
   align-items: center;
   width: 82px;

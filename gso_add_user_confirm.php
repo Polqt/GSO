@@ -7,11 +7,11 @@ if (isset($_POST['submit'])) {
     $AcctType = $_POST['accttype'];
     $FirstName = $_POST['firstname'];
     $LastName = $_POST['lastname'];
-    $Username = $_POST['username'];
+    $Email = $_POST['email'];
     $Password = $_POST['password'];
     $Birthday = $_POST['birthday'];
 
-    $sql = "INSERT INTO student_acc (acctId, accttype, firstname, lastname, username, password, birthday) VALUES ('$AcctID','$AcctType','$FirstName', '$LastName', '$Username', '$Password', '$Birthday')";
+    $sql = "INSERT INTO student_acc (acctId, accttype, firstname, lastname, email, password, birthday) VALUES ('$AcctID','$AcctType','$FirstName', '$LastName', '$Email', '$Password', '$Birthday')";
     $q = mysqli_query($conn, $sql) or die(mysqli_error($conn));
 }
 ?>

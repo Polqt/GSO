@@ -5,7 +5,7 @@
             <h1>Login</h1>
         
             <div class="input-box">
-            <input type="text" id="username" name="username" placeholder ="Username" required>
+            <input type="text" id="email" name="email" placeholder ="Email" required>
             </div>
 
             <div class="input-box">

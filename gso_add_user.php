@@ -18,8 +18,8 @@
         <form method="post">
         <label for="birthday">Select Your Birthday:</label>
         <input type="date" id="birthday" name="birthday"><br><br>
-    <label for="username"><b>Username</b></label>
-    <input type="text" name="username" id="username" /><br /><br />
+    <label for="email"><b>Email</b></label>
+    <input type="text" name="email" id="email" /><br /><br />
     <label for="password"><b>User Password</b></label>
     <input type="text" name="password" id="password" /><br />
     <i>For password, default format is: First Initial + Last Initial + University ID (TD00000)</i><br />

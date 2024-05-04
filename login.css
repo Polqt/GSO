@@ -1,3 +1,8 @@
+
+* {
+  font-family: var(--font-sf-pro);
+}
+
 .login1 {
   position: absolute;
   top: 0;
@@ -20,8 +25,8 @@
   position: absolute;
   top: 28px;
   left: calc(50% - 64px);
-  font-weight: 500;
 }
+
 .flat-color-iconsgoogle {
   position: absolute;
   top: 19px;
@@ -51,25 +56,62 @@
   width: 401px;
   height: 85px;
 }
-.continue {
-  position: absolute;
-  top: 28px;
-  left: 151px;
-  font-weight: 500;
-}
-.forgot-password,
-.rectangle-group {
-  position: absolute;
-  margin: 0 !important;
-}
+
 .rectangle-group {
   width: 401px;
   top: 415px;
   left: 88px;
   height: 85px;
-  overflow: hidden;
   z-index: 1;
 }
+
+.continue {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  position: absolute; 
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 24px;
+  border-radius: var(--br-xs);
+  display: flex; 
+  justify-content: center; 
+  text-align: center;
+
+}
+
+button {
+  transition: all .2s;
+  padding: 10px 20px;
+  background: transparent;
+  border: 1px solid white;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  width: 400px;
+  height: 85px;
+}
+
+button > svg {
+  width: 34px;
+  margin-left: 10px;
+  transition: transform .3s ease-in-out;
+}
+
+button:hover svg {
+  transform: translateX(5px);
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+.forgot-password,
+.rectangle-group {
+  position: absolute;
+  margin: 0 !important;
+}
+
 .forgot-password {
   width: 135px;
   top: 655px;

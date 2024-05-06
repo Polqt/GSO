@@ -1,0 +1,431 @@
+.header-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon12 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child7 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.search-bar-child18,
+.search-bar-child19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  width: 622px;
+  height: 58px;
+}
+.search-bar-child19 {
+  left: 560px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-darkslategray-200);
+  width: 62px;
+}
+.search-command5 {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+  font-weight: 500;
+}
+.material-symbolssearch-icon9 {
+  position: absolute;
+  top: 12px;
+  left: 574px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.search-bar14 {
+  position: absolute;
+  top: 126px;
+  left: 1150px;
+  width: 622px;
+  height: 58px;
+}
+.material-symbolsnotifications-icon10 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon12 {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.welcome-back-johnny7 {
+  position: absolute;
+  top: 126px;
+  left: 144px;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 490.5px;
+  height: 61px;
+}
+.header5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+  font-size: var(--font-size-xl-9);
+  color: var(--color-dimgray);
+}
+.navigation-column-child6 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard12 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages5 {
+  top: 243px;
+  left: 50px;
+}
+.messages5,
+.notifications11,
+.tickets15 {
+  position: absolute;
+  font-weight: 500;
+}
+.tickets15 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 82px;
+}
+.notifications11 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.files11,
+.services12,
+.settings12 {
+  position: absolute;
+  left: 50px;
+  font-weight: 500;
+}
+.services12 {
+  top: 310px;
+  color: var(--color-forestgreen);
+}
+.files11,
+.settings12 {
+  top: 377px;
+}
+.settings12 {
+  top: 461px;
+}
+.navigation-column-child7 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.wrapper-rectangle-3-child6 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.417);
+}
+.wrapper-rectangle-38 {
+  position: absolute;
+  top: 305px;
+  left: 34px;
+  border-radius: 7.51px;
+  width: 128px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation-column4 {
+  position: absolute;
+  top: 216px;
+  left: -1px;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.pass-thru-parking-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 465px;
+  height: 720px;
+}
+.open-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 52.52px;
+  background-color: var(--color-seagreen);
+  width: 91px;
+  height: 37px;
+}
+.open {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 20px;
+}
+.open-button {
+  position: absolute;
+  top: 645px;
+  left: 32px;
+  width: 91px;
+  height: 37px;
+  text-align: center;
+}
+.lorem-ipsum-dolor30,
+.pass-thru {
+  position: absolute;
+  left: 32px;
+  font-weight: 500;
+  width: 387px;
+}
+.lorem-ipsum-dolor30 {
+  top: 527px;
+  font-size: var(--font-size-sm-1);
+  line-height: 20px;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  height: 79px;
+}
+.pass-thru {
+  top: 468px;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+  display: inline-block;
+  height: 53px;
+}
+.pass-thru-parking-inner,
+.pass-thru-parking-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  width: 465px;
+  height: 449px;
+}
+.pass-thru-parking-item {
+  background-color: var(--color-lightgray);
+}
+.pass-thru-parking-inner {
+  object-fit: cover;
+}
+.pass-thru-parking,
+.reservations-child {
+  position: absolute;
+  top: 254px;
+  left: 344px;
+  width: 465px;
+  height: 720px;
+}
+.reservations-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+}
+.open-button-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 52.52px;
+  background-color: var(--color-seagreen);
+  width: 91px;
+  height: 37px;
+}
+.open1 {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 20px;
+}
+.open-button1 {
+  position: absolute;
+  top: 645px;
+  left: 39px;
+  width: 91px;
+  height: 37px;
+  text-align: center;
+}
+.lorem-ipsum-dolor31,
+.reservations1 {
+  position: absolute;
+  left: 39px;
+  font-weight: 500;
+  width: 387px;
+}
+.lorem-ipsum-dolor31 {
+  top: 527px;
+  font-size: var(--font-size-sm-1);
+  line-height: 20px;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  height: 79px;
+}
+.reservations1 {
+  top: 468px;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+  display: inline-block;
+  height: 53px;
+}
+.reservations-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  width: 465px;
+  height: 449px;
+  object-fit: cover;
+}
+.gate-pass-child,
+.reservations {
+  position: absolute;
+  top: 254px;
+  left: 862px;
+  width: 465px;
+  height: 720px;
+}
+.gate-pass-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+}
+.open-button-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 52.52px;
+  background-color: var(--color-seagreen);
+  width: 91px;
+  height: 37px;
+}
+.open2 {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 20px;
+}
+.open-button2 {
+  position: absolute;
+  top: 645px;
+  left: 39px;
+  width: 91px;
+  height: 37px;
+  text-align: center;
+}
+.gate-pass1,
+.lorem-ipsum-dolor32 {
+  position: absolute;
+  left: 39px;
+  font-weight: 500;
+  width: 387px;
+}
+.lorem-ipsum-dolor32 {
+  top: 527px;
+  font-size: var(--font-size-sm-1);
+  line-height: 20px;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  height: 79px;
+}
+.gate-pass1 {
+  top: 468px;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+  display: inline-block;
+  height: 53px;
+}
+.gate-pass,
+.gate-pass-item {
+  position: absolute;
+  width: 465px;
+}
+.gate-pass-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  height: 449px;
+  object-fit: cover;
+}
+.gate-pass {
+  top: 254px;
+  left: 1380px;
+  height: 720px;
+}
+.services-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg-9);
+  color: var(--color-white);
+  font-family: var(--font-archivo);
+}

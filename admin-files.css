@@ -1,0 +1,284 @@
+.header-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon14 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child11 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.search-bar-child22,
+.search-bar-child23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  width: 622px;
+  height: 58px;
+}
+.search-bar-child23 {
+  left: 560px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-darkslategray-200);
+  width: 62px;
+}
+.search-command7 {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+  font-weight: 500;
+}
+.material-symbolssearch-icon11 {
+  position: absolute;
+  top: 12px;
+  left: 574px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.search-bar16 {
+  position: absolute;
+  top: 126px;
+  left: 1150px;
+  width: 622px;
+  height: 58px;
+}
+.material-symbolsnotifications-icon12 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon14 {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.welcome-back-johnny8 {
+  position: absolute;
+  top: 126px;
+  left: 144px;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 490.5px;
+  height: 61px;
+}
+.header7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+  font-size: var(--font-size-xl-9);
+  color: var(--color-dimgray);
+}
+.navigation-column-child10 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard14 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages7 {
+  top: 243px;
+  left: 50px;
+}
+.messages7,
+.notifications13,
+.tickets17 {
+  position: absolute;
+  font-weight: 500;
+}
+.tickets17 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 82px;
+}
+.notifications13 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.services14 {
+  top: 310px;
+}
+.files14,
+.services14,
+.settings15 {
+  position: absolute;
+  left: 50px;
+  font-weight: 500;
+}
+.files14 {
+  top: 377px;
+  color: var(--color-forestgreen);
+}
+.settings15 {
+  top: 461px;
+}
+.navigation-column-child11 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.wrapper-rectangle-3-child8 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.417);
+}
+.wrapper-rectangle-310 {
+  position: absolute;
+  top: 372px;
+  left: 34px;
+  border-radius: 7.51px;
+  width: 85px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation-column6 {
+  position: absolute;
+  top: 216px;
+  left: -1px;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.files-child {
+  position: absolute;
+  top: 246px;
+  left: 304px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 1564px;
+  height: 801px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 58.33%;
+  width: 75%;
+  top: 20.83%;
+  right: 12.67%;
+  bottom: 20.83%;
+  left: 12.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.reservations2 {
+  position: absolute;
+  top: 84.67%;
+  left: 35.67%;
+  font-weight: 600;
+}
+.folder,
+.vector-icon3 {
+  position: absolute;
+  top: 288px;
+  left: 434px;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+.vector-icon3 {
+  height: 58.33%;
+  width: 75%;
+  top: 20.83%;
+  right: 12.67%;
+  bottom: 20.83%;
+  left: 12.33%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.gate-pass2 {
+  position: absolute;
+  top: 84.67%;
+  left: 39%;
+  font-weight: 600;
+}
+.folder1,
+.vector-icon4 {
+  position: absolute;
+  top: 288px;
+  left: 810px;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+.vector-icon4 {
+  height: 58.33%;
+  width: 75%;
+  top: 20.83%;
+  right: 12.67%;
+  bottom: 20.83%;
+  left: 12.33%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.pass-thru1 {
+  position: absolute;
+  top: 84.67%;
+  left: 39%;
+  font-weight: 600;
+}
+.folder2 {
+  position: absolute;
+  top: 288px;
+  left: 1186px;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+.files13 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-archivo);
+}

@@ -1,0 +1,678 @@
+.header-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon14 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child11 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.search-bar-child22,
+.search-bar-child23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  width: 622px;
+  height: 58px;
+}
+.search-bar-child23 {
+  left: 560px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-darkslategray-200);
+  width: 62px;
+}
+.search-command7 {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+  font-weight: 500;
+}
+.material-symbolssearch-icon11 {
+  position: absolute;
+  top: 12px;
+  left: 574px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.search-bar16 {
+  position: absolute;
+  top: 126px;
+  left: 1150px;
+  width: 622px;
+  height: 58px;
+}
+.material-symbolsnotifications-icon12 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.header7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+  color: var(--color-dimgray);
+}
+.navigation-column-child10 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard14 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages7 {
+  top: 243px;
+  left: 50px;
+}
+.messages7,
+.notifications13,
+.tickets17 {
+  position: absolute;
+  font-weight: 500;
+}
+.tickets17 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 82px;
+}
+.notifications13 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.files14,
+.services14,
+.settings15 {
+  position: absolute;
+  top: 310px;
+  left: 50px;
+  font-weight: 500;
+}
+.files14,
+.settings15 {
+  top: 377px;
+}
+.settings15 {
+  top: 461px;
+  color: var(--color-forestgreen);
+}
+.navigation-column-child11 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.wrapper-rectangle-3-child8 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.417);
+}
+.wrapper-rectangle-310 {
+  position: absolute;
+  top: 456px;
+  left: 34px;
+  border-radius: 7.51px;
+  width: 119px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation-column6 {
+  position: absolute;
+  top: 216px;
+  left: -1px;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.settings-column-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 283px;
+  height: 819px;
+}
+.access,
+.notification,
+.preferences {
+  position: absolute;
+  top: 146px;
+  left: 52px;
+  font-weight: 500;
+}
+.access,
+.preferences {
+  top: 425px;
+}
+.preferences {
+  top: 188px;
+}
+.delete-account,
+.language,
+.password1,
+.sessions {
+  position: absolute;
+  top: 230px;
+  left: 52px;
+  font-weight: 500;
+}
+.language,
+.password1,
+.sessions {
+  top: 467px;
+}
+.language,
+.password1 {
+  top: 104px;
+}
+.password1 {
+  top: 383px;
+}
+.settings-column-inner,
+.settings-column-item {
+  position: absolute;
+  top: 278px;
+  left: 0;
+  max-height: 100%;
+  width: 283px;
+}
+.settings-column-inner {
+  top: 507px;
+}
+.profile {
+  top: 23px;
+  left: 16px;
+  color: var(--color-dimgray);
+}
+.edit-profile,
+.email,
+.profile,
+.security {
+  position: absolute;
+  font-weight: 500;
+}
+.security {
+  top: 302px;
+  left: 16px;
+  color: var(--color-dimgray);
+}
+.edit-profile,
+.email {
+  top: 63px;
+  left: 52px;
+}
+.email {
+  top: 342px;
+}
+.carbonnotification-icon,
+.ggprofile-icon,
+.icbaseline-language-icon {
+  position: absolute;
+  top: 59px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.carbonnotification-icon,
+.icbaseline-language-icon {
+  top: 101px;
+}
+.carbonnotification-icon {
+  top: 143px;
+}
+.icoutline-email-icon,
+.pajamaspreferences-icon,
+.wpfkey-security-icon {
+  position: absolute;
+  top: 185px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icoutline-email-icon,
+.wpfkey-security-icon {
+  top: 338px;
+}
+.wpfkey-security-icon {
+  top: 377px;
+  left: 17px;
+}
+.material-symbolsactivity-zone-icon,
+.material-symbolsdelete-icon,
+.tablerlock-access-icon {
+  position: absolute;
+  top: 421px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.material-symbolsactivity-zone-icon,
+.material-symbolsdelete-icon {
+  top: 463px;
+}
+.material-symbolsdelete-icon {
+  top: 227px;
+  left: 14px;
+}
+.settings-column-child1 {
+  position: absolute;
+  top: 55px;
+  left: 10px;
+  border-radius: 100px;
+  background-color: var(--color-gray-400);
+  border: 2px solid var(--color-forestgreen);
+  box-sizing: border-box;
+  width: 256px;
+  height: 33px;
+}
+.settings-column {
+  position: absolute;
+  top: 237px;
+  left: 291px;
+  width: 283px;
+  height: 819px;
+  font-size: var(--font-size-base-5);
+}
+.edit-profile-settings-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 855px;
+  height: 738px;
+}
+.student-info-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 13.24px;
+  border: 1.8px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 757px;
+  height: 152px;
+}
+.address,
+.university-of-st {
+  position: absolute;
+  left: 29px;
+  font-weight: 500;
+}
+.address {
+  top: 75px;
+  color: var(--color-dimgray);
+}
+.university-of-st {
+  top: 103px;
+}
+.account-id,
+.date-created,
+.div73 {
+  position: absolute;
+  left: 353px;
+  font-weight: 500;
+}
+.account-id {
+  top: 76px;
+  color: var(--color-dimgray);
+}
+.date-created,
+.div73 {
+  top: 103px;
+}
+.date-created {
+  top: 76px;
+  left: 473px;
+  color: var(--color-dimgray);
+}
+.april-24-2024,
+.student-info1 {
+  position: absolute;
+  top: 103px;
+  left: 473px;
+  font-weight: 500;
+}
+.student-info1 {
+  top: 20px;
+  left: 29px;
+  font-size: var(--font-size-5xl);
+}
+.student-info {
+  position: absolute;
+  top: 517px;
+  left: 39px;
+  width: 757px;
+  height: 152px;
+}
+.full-name,
+.johnny-franz-esperanolla {
+  position: absolute;
+  left: 29px;
+  font-weight: 500;
+}
+.full-name {
+  top: 82px;
+  color: var(--color-dimgray);
+}
+.johnny-franz-esperanolla {
+  top: 110px;
+}
+.email1,
+.s2120770uslseduph {
+  position: absolute;
+  left: 243px;
+  font-weight: 500;
+}
+.email1 {
+  top: 82px;
+  color: var(--color-dimgray);
+}
+.s2120770uslseduph {
+  top: 110px;
+}
+.phone {
+  top: 82px;
+  left: 443px;
+  color: var(--color-dimgray);
+}
+.div74,
+.gso-admin1,
+.phone,
+.type5 {
+  position: absolute;
+  font-weight: 500;
+}
+.div74 {
+  top: 110px;
+  left: 443px;
+}
+.gso-admin1,
+.type5 {
+  left: 624px;
+}
+.type5 {
+  top: 82px;
+  color: var(--color-dimgray);
+}
+.gso-admin1 {
+  top: 110px;
+}
+.personal-info-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 13.24px;
+  background-color: var(--color-gray-400);
+  border: 1.8px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 757px;
+  height: 164px;
+}
+.personal-info1 {
+  position: absolute;
+  top: 27px;
+  left: 29px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.personal-info {
+  position: absolute;
+  top: 316px;
+  left: 39px;
+  width: 757px;
+  height: 164px;
+}
+.edit-profile-settings-item {
+  position: absolute;
+  top: 279px;
+  left: 0;
+  max-height: 100%;
+  width: 855px;
+}
+.at-least-800,
+.jpg-or {
+  margin: 0;
+}
+.jpg-or {
+  white-space: pre-wrap;
+}
+.at-least-800-container {
+  position: absolute;
+  top: 138px;
+  left: 231px;
+  font-weight: 500;
+}
+.profile-picture-child {
+  position: absolute;
+  top: 66px;
+  left: 229px;
+  border-radius: 13.24px;
+  background-color: var(--color-gray-400);
+  border: 1.8px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 226px;
+  height: 54.7px;
+}
+.upload-new-photo {
+  position: absolute;
+  top: 80px;
+  left: 244px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-gray-100);
+  text-align: center;
+}
+.mask-group-icon14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.profile-picture {
+  position: absolute;
+  top: 32px;
+  left: 39px;
+  width: 458px;
+  height: 200px;
+  color: var(--color-dimgray);
+}
+.edit-profile-settings,
+.edit-profile1 {
+  position: absolute;
+  top: 318px;
+  left: 596px;
+  width: 855px;
+  height: 738px;
+  font-size: var(--font-size-sm-9);
+}
+.edit-profile1 {
+  top: 255px;
+  left: 602px;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 437px;
+  height: 53px;
+}
+.complete-profile-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 380px;
+  height: 819px;
+}
+.add-profile-picture,
+.complete-your-profile {
+  position: absolute;
+  top: 401px;
+  left: 129px;
+  font-weight: 500;
+}
+.complete-your-profile {
+  top: 41px;
+  left: 74px;
+  font-size: var(--font-size-5xl);
+  text-align: center;
+}
+.untitled-design-2-1 {
+  position: absolute;
+  top: 79px;
+  left: 15px;
+  width: 350px;
+  height: 309px;
+  object-fit: cover;
+}
+.b {
+  position: absolute;
+  top: 220px;
+  left: 162px;
+  font-size: 26px;
+  color: var(--color-dimgray);
+}
+.bicheck-icon {
+  position: absolute;
+  top: 388px;
+  left: 78px;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+}
+.add-full-name {
+  position: absolute;
+  top: 463px;
+  left: 129px;
+  font-weight: 500;
+}
+.bicheck-icon1 {
+  position: absolute;
+  top: 450px;
+  left: 78px;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+}
+.add-email {
+  position: absolute;
+  top: 525px;
+  left: 129px;
+  font-weight: 500;
+}
+.bicheck-icon2 {
+  position: absolute;
+  top: 512px;
+  left: 78px;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+}
+.add-phone-number {
+  position: absolute;
+  top: 587px;
+  left: 129px;
+  font-weight: 500;
+}
+.bicheck-icon3 {
+  position: absolute;
+  top: 574px;
+  left: 78px;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+}
+.select-account-type {
+  position: absolute;
+  top: 649px;
+  left: 129px;
+  font-weight: 500;
+}
+.bicheck-icon4 {
+  position: absolute;
+  top: 636px;
+  left: 78px;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+}
+.verify-account {
+  position: absolute;
+  top: 711px;
+  left: 131px;
+  font-weight: 500;
+  color: var(--color-silver);
+}
+.phx-bold-icon {
+  position: absolute;
+  top: 706px;
+  left: 85px;
+  width: 29px;
+  height: 29px;
+  overflow: hidden;
+}
+.complete-profile {
+  position: absolute;
+  top: 237px;
+  left: 1486px;
+  width: 380px;
+  height: 819px;
+  font-size: var(--font-size-mid);
+}
+.settings14 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl-9);
+  color: var(--color-gray-100);
+  font-family: var(--font-archivo);
+}

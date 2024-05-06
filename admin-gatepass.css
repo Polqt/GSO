@@ -1,0 +1,1197 @@
+.header-child16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon17 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child17 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.search-bar-child35,
+.search-bar-child36 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  width: 622px;
+  height: 58px;
+}
+.search-bar-child36 {
+  left: 560px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-darkslategray-200);
+  width: 62px;
+}
+.search-command10 {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+  font-weight: 500;
+}
+.material-symbolssearch-icon16 {
+  position: absolute;
+  top: 12px;
+  left: 574px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.search-bar25 {
+  position: absolute;
+  top: 126px;
+  left: 1150px;
+  width: 622px;
+  height: 58px;
+}
+.material-symbolsnotifications-icon15 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon17 {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.welcome-back-johnny11 {
+  position: absolute;
+  top: 126px;
+  left: 144px;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 490.5px;
+  height: 61px;
+}
+.header10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+}
+.navigation-column-child16 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard17 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages10 {
+  top: 243px;
+  left: 50px;
+}
+.messages10,
+.notifications16,
+.tickets22 {
+  position: absolute;
+  font-weight: 500;
+}
+.tickets22 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 82px;
+}
+.notifications16 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.files17,
+.services17,
+.settings18 {
+  position: absolute;
+  left: 50px;
+  font-weight: 500;
+}
+.services17 {
+  top: 310px;
+  color: var(--color-forestgreen);
+}
+.files17,
+.settings18 {
+  top: 377px;
+}
+.settings18 {
+  top: 461px;
+}
+.navigation-column-child17 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.wrapper-rectangle-3-child11 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.417);
+}
+.wrapper-rectangle-313 {
+  position: absolute;
+  top: 305px;
+  left: 34px;
+  border-radius: 7.51px;
+  width: 128px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation-column9 {
+  position: absolute;
+  top: 216px;
+  left: -1px;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+}
+.tickets-child15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 14.87px;
+  background-color: var(--color-white);
+  border: 1.4px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 1581px;
+  height: 806px;
+}
+.all-gate-pass {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 478px;
+  height: 53px;
+}
+.action3,
+.date12,
+.no7,
+.reason-for-request,
+.requested-by6,
+.status13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 29.8px;
+  height: 14.6px;
+}
+.action3,
+.date12,
+.reason-for-request,
+.requested-by6,
+.status13 {
+  left: 85.9px;
+  width: 115.1px;
+}
+.action3,
+.date12,
+.reason-for-request,
+.status13 {
+  left: 388.8px;
+  width: 300px;
+  height: 15px;
+}
+.action3,
+.date12,
+.status13 {
+  left: 1153.3px;
+  width: 39.7px;
+  height: 14.6px;
+}
+.action3,
+.status13 {
+  left: 1309.8px;
+  width: 52px;
+  height: 15px;
+}
+.status13 {
+  left: 967.5px;
+  text-align: center;
+  width: 54.6px;
+  height: 14.6px;
+}
+.ticket-header5,
+.type6 {
+  position: absolute;
+  height: 15px;
+}
+.type6 {
+  top: 0;
+  left: 776.8px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 79px;
+}
+.ticket-header5 {
+  top: 140px;
+  left: 0.2px;
+  width: 1361.8px;
+  color: var(--color-dimgray);
+}
+.ticket-1-child23 {
+  position: absolute;
+  top: 8.6px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-yellowgreen-100);
+  width: 75.8px;
+  height: 21.6px;
+}
+.student {
+  top: 12px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.6px;
+}
+.approved5,
+.div103,
+.div104,
+.student {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.approved5 {
+  top: 11.6px;
+  left: 961px;
+  font-size: var(--font-size-sm-7);
+  color: var(--color-black);
+  text-align: center;
+  width: 69px;
+  height: 15px;
+}
+.div103,
+.div104 {
+  top: 19.7px;
+  left: 143.7px;
+  color: var(--color-silver);
+  width: 115.1px;
+  height: 14.6px;
+}
+.div104 {
+  top: 11.1px;
+  left: 0;
+  font-size: var(--font-size-lgi-7);
+  width: 23.5px;
+  height: 17.9px;
+}
+.john-leonard-esperancilla16 {
+  top: 0;
+  left: 143.7px;
+  width: 196.9px;
+  height: 14.6px;
+}
+.april-04-202430,
+.john-leonard-esperancilla16,
+.lorem-ipsum-dolor40 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor40 {
+  top: 0.8px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 300.6px;
+  height: 37.8px;
+}
+.april-04-202430 {
+  top: 12px;
+  left: 1123px;
+  text-align: center;
+  width: 101.1px;
+  height: 14.6px;
+}
+.ticket-1-child24 {
+  position: absolute;
+  top: 0;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  height: 38.6px;
+  object-fit: cover;
+}
+.div105,
+.ticket-113 {
+  position: absolute;
+  top: 181.4px;
+  left: 0;
+  width: 1224px;
+  height: 38.6px;
+}
+.div105 {
+  top: 11.2px;
+  font-size: var(--font-size-lgi-7);
+  font-weight: 500;
+  color: var(--color-silver);
+  display: inline-block;
+  width: 23.5px;
+  height: 17.9px;
+}
+.april-04-202431 {
+  top: 12px;
+  left: 1123px;
+  text-align: center;
+  width: 101.1px;
+  height: 14.6px;
+}
+.april-04-202431,
+.div106,
+.lorem-ipsum-dolor41,
+.ryan-giray8 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor41 {
+  top: 1.7px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 300.6px;
+  height: 36.9px;
+}
+.div106,
+.ryan-giray8 {
+  left: 143.7px;
+  height: 14.6px;
+}
+.div106 {
+  top: 22.3px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.ryan-giray8 {
+  top: 2.6px;
+  width: 196.9px;
+}
+.ticket-2-child11 {
+  position: absolute;
+  top: 8.6px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-chocolate-100);
+  width: 75.8px;
+  height: 21.6px;
+}
+.faculty,
+.pending8 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.pending8 {
+  top: 12px;
+  left: 968.8px;
+  font-size: var(--font-size-sm-7);
+  color: var(--color-black);
+  width: 52.3px;
+  height: 14.6px;
+}
+.faculty {
+  top: 11.8px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.8px;
+}
+.ticket-2-child12,
+.ticket-28 {
+  position: absolute;
+  height: 38.6px;
+}
+.ticket-2-child12 {
+  top: 0;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  object-fit: cover;
+}
+.ticket-28 {
+  top: 256.9px;
+  left: 0;
+  width: 1224px;
+}
+.div107,
+.outsider {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.outsider {
+  top: 11.9px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.8px;
+}
+.div107 {
+  top: 11.1px;
+  left: 0;
+  font-size: var(--font-size-lgi-7);
+  color: var(--color-silver);
+  width: 23.5px;
+  height: 17.9px;
+}
+.april-04-202432 {
+  top: 12px;
+  left: 1123px;
+  text-align: center;
+  width: 101.1px;
+  height: 14.6px;
+}
+.april-04-202432,
+.ashley-dale-arguelles6,
+.div108,
+.lorem-ipsum-dolor42 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor42 {
+  top: 1.7px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 318px;
+  height: 36.9px;
+}
+.ashley-dale-arguelles6,
+.div108 {
+  left: 143.7px;
+  height: 14.6px;
+}
+.div108 {
+  top: 22.3px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.ashley-dale-arguelles6 {
+  top: 2.5px;
+  width: 196.9px;
+}
+.ticket-3-child4 {
+  position: absolute;
+  top: 8.5px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-darkblue);
+  width: 75.8px;
+  height: 21.6px;
+}
+.done5 {
+  position: absolute;
+  top: 12px;
+  left: 973.1px;
+  font-size: var(--font-size-sm-7);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 43.6px;
+  height: 14.6px;
+}
+.ticket-3-child5,
+.ticket-33 {
+  position: absolute;
+  height: 38.6px;
+}
+.ticket-3-child5 {
+  top: 0;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  object-fit: cover;
+}
+.ticket-33 {
+  top: 332.5px;
+  left: 0;
+  width: 1224px;
+}
+.concessionaire,
+.div109 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.concessionaire {
+  top: 12px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.8px;
+}
+.div109 {
+  top: 11.2px;
+  left: 0;
+  font-size: var(--font-size-lgi-7);
+  color: var(--color-silver);
+  width: 23.5px;
+  height: 17.9px;
+}
+.april-03-20244 {
+  top: 12.1px;
+  left: 1123px;
+  text-align: center;
+  width: 101.1px;
+  height: 14.6px;
+}
+.april-03-20244,
+.div110,
+.franz-fortaleza3,
+.lorem-ipsum-dolor43 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor43 {
+  top: 1.8px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 318px;
+  height: 36.9px;
+}
+.div110,
+.franz-fortaleza3 {
+  left: 143.7px;
+  height: 14.6px;
+}
+.div110 {
+  top: 22.4px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.franz-fortaleza3 {
+  top: 2.6px;
+  width: 196.9px;
+}
+.ticket-4-child4 {
+  position: absolute;
+  top: 8.6px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: red;
+  width: 75.8px;
+  height: 21.6px;
+}
+.rejected {
+  position: absolute;
+  top: 12px;
+  left: 966px;
+  font-size: var(--font-size-sm-7);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 59px;
+  height: 15px;
+}
+.ticket-4-child5 {
+  position: absolute;
+  top: 0;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  height: 38.6px;
+  object-fit: cover;
+}
+.phpencil-line-icon21,
+.tablertrash-icon21 {
+  position: absolute;
+  top: 6px;
+  left: 1339px;
+  width: 21px;
+  height: 24px;
+  overflow: hidden;
+}
+.phpencil-line-icon21 {
+  top: 9px;
+  left: 1310px;
+  height: 21px;
+}
+.ticket-43 {
+  position: absolute;
+  top: 408px;
+  left: 0;
+  width: 1360px;
+  height: 38.6px;
+}
+.div111,
+.vendor {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.vendor {
+  top: 156.8px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.8px;
+}
+.div111 {
+  top: 156px;
+  left: 0;
+  font-size: var(--font-size-lgi-7);
+  color: var(--color-silver);
+  width: 23.5px;
+  height: 17.9px;
+}
+.april-01-20243 {
+  top: 156.9px;
+  left: 1123px;
+  text-align: center;
+  width: 101.1px;
+  height: 14.6px;
+}
+.april-01-20243,
+.div112,
+.janpol-hidalgo3,
+.lorem-ipsum-dolor44 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor44 {
+  top: 146.6px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 318px;
+  height: 36.9px;
+}
+.div112,
+.janpol-hidalgo3 {
+  left: 143.7px;
+  height: 14.6px;
+}
+.div112 {
+  top: 167.2px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.janpol-hidalgo3 {
+  top: 147.4px;
+  width: 196.9px;
+}
+.ticket-5-child4 {
+  position: absolute;
+  top: 153.6px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-darkblue);
+  width: 75.8px;
+  height: 21.6px;
+}
+.done6 {
+  position: absolute;
+  top: 156.9px;
+  left: 973.1px;
+  font-size: var(--font-size-sm-7);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 43.6px;
+  height: 14.6px;
+}
+.ticket-5-child5 {
+  position: absolute;
+  top: 144.8px;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  height: 38.6px;
+  object-fit: cover;
+}
+.tablertrash-icon22 {
+  position: absolute;
+  top: 0;
+  left: 1339px;
+  width: 21px;
+  height: 24px;
+  overflow: hidden;
+}
+.phpencil-line-icon22,
+.phpencil-line-icon23,
+.tablertrash-icon23 {
+  position: absolute;
+  top: 3px;
+  left: 1310px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.phpencil-line-icon23,
+.tablertrash-icon23 {
+  top: 151px;
+  left: 1339px;
+  height: 24px;
+}
+.phpencil-line-icon23 {
+  top: 154px;
+  left: 1310px;
+  height: 21px;
+}
+.ticket-53 {
+  position: absolute;
+  top: 339px;
+  left: 0;
+  width: 1360px;
+  height: 183.5px;
+}
+.delivery-man,
+.div113 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.delivery-man {
+  top: 308.6px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.8px;
+}
+.div113 {
+  top: 307.8px;
+  left: 0;
+  font-size: var(--font-size-lgi-7);
+  color: var(--color-silver);
+  width: 23.5px;
+  height: 17.9px;
+}
+.march-31-20243 {
+  top: 308.8px;
+  left: 1116.9px;
+  text-align: center;
+  width: 114.1px;
+  height: 14.8px;
+}
+.div114,
+.lorem-ipsum-dolor45,
+.march-31-20243,
+.owen-owen3 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor45 {
+  top: 298.3px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 318px;
+  height: 36.9px;
+}
+.div114,
+.owen-owen3 {
+  left: 143.7px;
+  height: 14.6px;
+}
+.div114 {
+  top: 319px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.owen-owen3 {
+  top: 299.2px;
+  width: 196.9px;
+}
+.ticket-6-child4 {
+  position: absolute;
+  top: 305.3px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-darkblue);
+  width: 75.8px;
+  height: 21.6px;
+}
+.done7 {
+  position: absolute;
+  top: 308.7px;
+  left: 973.1px;
+  font-size: var(--font-size-sm-7);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 43.6px;
+  height: 14.6px;
+}
+.ticket-6-child5 {
+  position: absolute;
+  top: 296.6px;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  height: 38.6px;
+  object-fit: cover;
+}
+.tablertrash-icon24 {
+  position: absolute;
+  top: 0;
+  left: 1339px;
+  width: 21px;
+  height: 24px;
+  overflow: hidden;
+}
+.phpencil-line-icon24,
+.phpencil-line-icon25,
+.tablertrash-icon25 {
+  position: absolute;
+  top: 3px;
+  left: 1310px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.phpencil-line-icon25,
+.tablertrash-icon25 {
+  top: 303px;
+  left: 1339px;
+  height: 24px;
+}
+.phpencil-line-icon25 {
+  top: 306px;
+  left: 1310px;
+  height: 21px;
+}
+.ticket-63 {
+  position: absolute;
+  top: 263px;
+  left: 0;
+  width: 1360px;
+  height: 335.3px;
+}
+.div115,
+.official-visitor {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.official-visitor {
+  top: 459.4px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.8px;
+}
+.div115 {
+  top: 458.6px;
+  left: 0;
+  font-size: var(--font-size-lgi-7);
+  color: var(--color-silver);
+  width: 23.5px;
+  height: 17.9px;
+}
+.march-29-20243 {
+  top: 459.6px;
+  left: 1116.9px;
+  text-align: center;
+  width: 114.1px;
+  height: 14.8px;
+}
+.div116,
+.emman-magbato3,
+.lorem-ipsum-dolor46,
+.march-29-20243 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor46 {
+  top: 449.1px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 318px;
+  height: 36.9px;
+}
+.div116,
+.emman-magbato3 {
+  left: 143.7px;
+  height: 14.6px;
+}
+.div116 {
+  top: 469.7px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.emman-magbato3 {
+  top: 450px;
+  width: 196.9px;
+}
+.ticket-7-child4 {
+  position: absolute;
+  top: 456.1px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-darkblue);
+  width: 75.8px;
+  height: 21.6px;
+}
+.done8 {
+  position: absolute;
+  top: 459.4px;
+  left: 973.1px;
+  font-size: var(--font-size-sm-7);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 43.6px;
+  height: 14.6px;
+}
+.ticket-7-child5 {
+  position: absolute;
+  top: 447.4px;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  height: 38.6px;
+  object-fit: cover;
+}
+.tablertrash-icon26 {
+  position: absolute;
+  top: 0;
+  left: 1339px;
+  width: 21px;
+  height: 24px;
+  overflow: hidden;
+}
+.phpencil-line-icon26,
+.phpencil-line-icon27,
+.tablertrash-icon27 {
+  position: absolute;
+  top: 3px;
+  left: 1310px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.phpencil-line-icon27,
+.tablertrash-icon27 {
+  top: 454px;
+  left: 1339px;
+  height: 24px;
+}
+.phpencil-line-icon27 {
+  top: 457px;
+  left: 1310px;
+  height: 21px;
+}
+.recent-tickets9,
+.ticket-73 {
+  position: absolute;
+  top: 188px;
+  left: 0;
+  width: 1360px;
+  height: 486.1px;
+}
+.recent-tickets9 {
+  top: 27px;
+  left: 52px;
+  width: 1362px;
+  height: 674.1px;
+}
+.search-bar-child37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-gainsboro-100);
+  width: 230px;
+  height: 57px;
+}
+.search-type {
+  position: absolute;
+  top: 21px;
+  left: 15px;
+  font-weight: 500;
+  display: inline-block;
+  width: 118px;
+}
+.search-bar-child38,
+.search-bar-child39,
+.search-bar26 {
+  position: absolute;
+  top: 1px;
+  left: 708px;
+  width: 230px;
+  height: 57px;
+}
+.search-bar-child38,
+.search-bar-child39 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-gainsboro-100);
+}
+.search-bar-child39 {
+  left: 186px;
+  border-radius: 0 var(--br-4xs) var(--br-4xs) 0;
+  background-color: var(--color-darkslategray-200);
+  width: 44px;
+}
+.search-for-request {
+  position: absolute;
+  top: 21px;
+  left: 15px;
+  font-weight: 500;
+  display: inline-block;
+  width: 159px;
+}
+.material-symbolssearch-icon17 {
+  position: absolute;
+  top: 19px;
+  left: 198px;
+  width: 20.4px;
+  height: 20.4px;
+  overflow: hidden;
+}
+.search-bar-child40,
+.search-bar27 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 230px;
+  height: 57px;
+}
+.search-bar-child40 {
+  top: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-gainsboro-100);
+  width: 415px;
+}
+.select-by-name3 {
+  position: absolute;
+  top: 21px;
+  left: 15px;
+  font-weight: 500;
+  display: inline-block;
+  width: 118px;
+}
+.search-bar28,
+.search-buttons5 {
+  position: absolute;
+  top: 0;
+  left: 262px;
+  width: 415px;
+  height: 57px;
+}
+.search-buttons5 {
+  top: 87px;
+  left: 52px;
+  width: 938px;
+  height: 58px;
+  font-size: var(--font-size-smi-5);
+  color: var(--color-dimgray);
+}
+.add-ticket-button-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen);
+  width: 324px;
+  height: 57px;
+}
+.icround-plus-icon3 {
+  position: absolute;
+  top: 3px;
+  left: 17px;
+  width: 51px;
+  height: 51px;
+  overflow: hidden;
+}
+.add-reservation1 {
+  position: absolute;
+  top: 16px;
+  left: 82px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 216px;
+  height: 26px;
+}
+.add-ticket-button3 {
+  position: absolute;
+  top: 88px;
+  left: 1090px;
+  width: 324px;
+  height: 57px;
+  text-align: center;
+  font-size: var(--font-size-9xl-2);
+  color: var(--color-white);
+}
+.tickets23 {
+  position: absolute;
+  top: 238px;
+  left: 287px;
+  width: 1581px;
+  height: 806px;
+  font-size: var(--font-size-base-1);
+  color: var(--color-gray-100);
+}
+.down-button-icon5 {
+  position: absolute;
+  top: 977px;
+  left: 1058px;
+  width: 37px;
+  height: 37px;
+}
+.gate-pass3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl-9);
+  color: var(--color-dimgray);
+  font-family: var(--font-archivo);
+}

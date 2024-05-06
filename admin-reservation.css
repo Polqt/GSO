@@ -1,0 +1,1197 @@
+.header-child14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon16 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child15 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.search-bar-child29,
+.search-bar-child30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  width: 622px;
+  height: 58px;
+}
+.search-bar-child30 {
+  left: 560px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-darkslategray-200);
+  width: 62px;
+}
+.search-command9 {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+  font-weight: 500;
+}
+.material-symbolssearch-icon14 {
+  position: absolute;
+  top: 12px;
+  left: 574px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.search-bar21 {
+  position: absolute;
+  top: 126px;
+  left: 1150px;
+  width: 622px;
+  height: 58px;
+}
+.material-symbolsnotifications-icon14 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon16 {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.welcome-back-johnny10 {
+  position: absolute;
+  top: 126px;
+  left: 144px;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 490.5px;
+  height: 61px;
+}
+.header9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+}
+.navigation-column-child14 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard16 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages9 {
+  top: 243px;
+  left: 50px;
+}
+.messages9,
+.notifications15,
+.tickets20 {
+  position: absolute;
+  font-weight: 500;
+}
+.tickets20 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 82px;
+}
+.notifications15 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.files16,
+.services16,
+.settings17 {
+  position: absolute;
+  left: 50px;
+  font-weight: 500;
+}
+.services16 {
+  top: 310px;
+  color: var(--color-forestgreen);
+}
+.files16,
+.settings17 {
+  top: 377px;
+}
+.settings17 {
+  top: 461px;
+}
+.navigation-column-child15 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.wrapper-rectangle-3-child10 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.417);
+}
+.wrapper-rectangle-312 {
+  position: absolute;
+  top: 305px;
+  left: 34px;
+  border-radius: 7.51px;
+  width: 128px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation-column8 {
+  position: absolute;
+  top: 216px;
+  left: -1px;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+}
+.tickets-child14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 14.87px;
+  background-color: var(--color-white);
+  border: 1.4px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 1581px;
+  height: 806px;
+}
+.all-reservations {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 437px;
+  height: 53px;
+}
+.action2,
+.date11,
+.no6,
+.reason-for-reservation,
+.requested-by5,
+.status12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 29.8px;
+  height: 14.6px;
+}
+.action2,
+.date11,
+.reason-for-reservation,
+.requested-by5,
+.status12 {
+  left: 85.9px;
+  width: 115.1px;
+}
+.action2,
+.date11,
+.reason-for-reservation,
+.status12 {
+  left: 388.8px;
+  width: 300px;
+  height: 15px;
+}
+.action2,
+.date11,
+.status12 {
+  left: 1153.3px;
+  width: 39.7px;
+  height: 14.6px;
+}
+.action2,
+.status12 {
+  left: 1309.8px;
+  width: 52px;
+  height: 15px;
+}
+.status12 {
+  left: 967.5px;
+  text-align: center;
+  width: 54.6px;
+  height: 14.6px;
+}
+.entity,
+.ticket-header4 {
+  position: absolute;
+  height: 15px;
+}
+.entity {
+  top: 0;
+  left: 776.8px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 79px;
+}
+.ticket-header4 {
+  top: 140px;
+  left: 0.2px;
+  width: 1361.8px;
+  color: var(--color-dimgray);
+}
+.ticket-1-child21 {
+  position: absolute;
+  top: 8.6px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-yellowgreen-100);
+  width: 75.8px;
+  height: 21.6px;
+}
+.mm-audi-a {
+  top: 12px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.6px;
+}
+.div89,
+.div90,
+.mm-audi-a,
+.ongoing {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.ongoing {
+  top: 11.6px;
+  left: 965px;
+  font-size: var(--font-size-sm-7);
+  color: var(--color-black);
+  text-align: center;
+  width: 59px;
+  height: 15px;
+}
+.div89,
+.div90 {
+  top: 19.7px;
+  left: 143.7px;
+  color: var(--color-silver);
+  width: 115.1px;
+  height: 14.6px;
+}
+.div90 {
+  top: 11.1px;
+  left: 0;
+  font-size: var(--font-size-lgi-7);
+  width: 23.5px;
+  height: 17.9px;
+}
+.john-leonard-esperancilla15 {
+  top: 0;
+  left: 143.7px;
+  width: 196.9px;
+  height: 14.6px;
+}
+.april-04-202427,
+.john-leonard-esperancilla15,
+.lorem-ipsum-dolor33 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor33 {
+  top: 0.8px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 300.6px;
+  height: 37.8px;
+}
+.april-04-202427 {
+  top: 12px;
+  left: 1123px;
+  text-align: center;
+  width: 101.1px;
+  height: 14.6px;
+}
+.ticket-1-child22 {
+  position: absolute;
+  top: 0;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  height: 38.6px;
+  object-fit: cover;
+}
+.div91,
+.ticket-112 {
+  position: absolute;
+  top: 181.4px;
+  left: 0;
+  width: 1224px;
+  height: 38.6px;
+}
+.div91 {
+  top: 11.2px;
+  font-size: var(--font-size-lgi-7);
+  font-weight: 500;
+  color: var(--color-silver);
+  display: inline-block;
+  width: 23.5px;
+  height: 17.9px;
+}
+.april-04-202428 {
+  top: 12px;
+  left: 1123px;
+  text-align: center;
+  width: 101.1px;
+  height: 14.6px;
+}
+.april-04-202428,
+.div92,
+.lorem-ipsum-dolor34,
+.ryan-giray7 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor34 {
+  top: 1.7px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 300.6px;
+  height: 36.9px;
+}
+.div92,
+.ryan-giray7 {
+  left: 143.7px;
+  height: 14.6px;
+}
+.div92 {
+  top: 22.3px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.ryan-giray7 {
+  top: 2.6px;
+  width: 196.9px;
+}
+.ticket-2-child9 {
+  position: absolute;
+  top: 8.6px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-chocolate-100);
+  width: 75.8px;
+  height: 21.6px;
+}
+.cody-hall,
+.pending7 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.pending7 {
+  top: 12px;
+  left: 968.8px;
+  font-size: var(--font-size-sm-7);
+  color: var(--color-black);
+  width: 52.3px;
+  height: 14.6px;
+}
+.cody-hall {
+  top: 11.8px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.8px;
+}
+.ticket-2-child10,
+.ticket-27 {
+  position: absolute;
+  height: 38.6px;
+}
+.ticket-2-child10 {
+  top: 0;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  object-fit: cover;
+}
+.ticket-27 {
+  top: 256.9px;
+  left: 0;
+  width: 1224px;
+}
+.div93,
+.miguel-hall {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.miguel-hall {
+  top: 11.9px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.8px;
+}
+.div93 {
+  top: 11.1px;
+  left: 0;
+  font-size: var(--font-size-lgi-7);
+  color: var(--color-silver);
+  width: 23.5px;
+  height: 17.9px;
+}
+.april-04-202429 {
+  top: 12px;
+  left: 1123px;
+  text-align: center;
+  width: 101.1px;
+  height: 14.6px;
+}
+.april-04-202429,
+.ashley-dale-arguelles5,
+.div94,
+.lorem-ipsum-dolor35 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor35 {
+  top: 1.7px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 318px;
+  height: 36.9px;
+}
+.ashley-dale-arguelles5,
+.div94 {
+  left: 143.7px;
+  height: 14.6px;
+}
+.div94 {
+  top: 22.3px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.ashley-dale-arguelles5 {
+  top: 2.5px;
+  width: 196.9px;
+}
+.ticket-3-child2 {
+  position: absolute;
+  top: 8.5px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-darkblue);
+  width: 75.8px;
+  height: 21.6px;
+}
+.done {
+  position: absolute;
+  top: 12px;
+  left: 973.1px;
+  font-size: var(--font-size-sm-7);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 43.6px;
+  height: 14.6px;
+}
+.ticket-3-child3,
+.ticket-32 {
+  position: absolute;
+  height: 38.6px;
+}
+.ticket-3-child3 {
+  top: 0;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  object-fit: cover;
+}
+.ticket-32 {
+  top: 332.5px;
+  left: 0;
+  width: 1224px;
+}
+.div95,
+.microphones {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.microphones {
+  top: 12px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.8px;
+}
+.div95 {
+  top: 11.2px;
+  left: 0;
+  font-size: var(--font-size-lgi-7);
+  color: var(--color-silver);
+  width: 23.5px;
+  height: 17.9px;
+}
+.april-03-20243 {
+  top: 12.1px;
+  left: 1123px;
+  text-align: center;
+  width: 101.1px;
+  height: 14.6px;
+}
+.april-03-20243,
+.div96,
+.franz-fortaleza2,
+.lorem-ipsum-dolor36 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor36 {
+  top: 1.8px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 318px;
+  height: 36.9px;
+}
+.div96,
+.franz-fortaleza2 {
+  left: 143.7px;
+  height: 14.6px;
+}
+.div96 {
+  top: 22.4px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.franz-fortaleza2 {
+  top: 2.6px;
+  width: 196.9px;
+}
+.ticket-4-child2 {
+  position: absolute;
+  top: 8.6px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-darkblue);
+  width: 75.8px;
+  height: 21.6px;
+}
+.done1 {
+  position: absolute;
+  top: 12.1px;
+  left: 973.1px;
+  font-size: var(--font-size-sm-7);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 43.6px;
+  height: 14.6px;
+}
+.ticket-4-child3 {
+  position: absolute;
+  top: 0;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  height: 38.6px;
+  object-fit: cover;
+}
+.phpencil-line-icon14,
+.tablertrash-icon14 {
+  position: absolute;
+  top: 6px;
+  left: 1339px;
+  width: 21px;
+  height: 24px;
+  overflow: hidden;
+}
+.phpencil-line-icon14 {
+  top: 9px;
+  left: 1310px;
+  height: 21px;
+}
+.ticket-42 {
+  position: absolute;
+  top: 408px;
+  left: 0;
+  width: 1360px;
+  height: 38.6px;
+}
+.div97,
+.speakers {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.speakers {
+  top: 156.8px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.8px;
+}
+.div97 {
+  top: 156px;
+  left: 0;
+  font-size: var(--font-size-lgi-7);
+  color: var(--color-silver);
+  width: 23.5px;
+  height: 17.9px;
+}
+.april-01-20242 {
+  top: 156.9px;
+  left: 1123px;
+  text-align: center;
+  width: 101.1px;
+  height: 14.6px;
+}
+.april-01-20242,
+.div98,
+.janpol-hidalgo2,
+.lorem-ipsum-dolor37 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor37 {
+  top: 146.6px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 318px;
+  height: 36.9px;
+}
+.div98,
+.janpol-hidalgo2 {
+  left: 143.7px;
+  height: 14.6px;
+}
+.div98 {
+  top: 167.2px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.janpol-hidalgo2 {
+  top: 147.4px;
+  width: 196.9px;
+}
+.ticket-5-child2 {
+  position: absolute;
+  top: 153.6px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-darkblue);
+  width: 75.8px;
+  height: 21.6px;
+}
+.done2 {
+  position: absolute;
+  top: 156.9px;
+  left: 973.1px;
+  font-size: var(--font-size-sm-7);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 43.6px;
+  height: 14.6px;
+}
+.ticket-5-child3 {
+  position: absolute;
+  top: 144.8px;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  height: 38.6px;
+  object-fit: cover;
+}
+.tablertrash-icon15 {
+  position: absolute;
+  top: 0;
+  left: 1339px;
+  width: 21px;
+  height: 24px;
+  overflow: hidden;
+}
+.phpencil-line-icon15,
+.phpencil-line-icon16,
+.tablertrash-icon16 {
+  position: absolute;
+  top: 3px;
+  left: 1310px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.phpencil-line-icon16,
+.tablertrash-icon16 {
+  top: 151px;
+  left: 1339px;
+  height: 24px;
+}
+.phpencil-line-icon16 {
+  top: 154px;
+  left: 1310px;
+  height: 21px;
+}
+.ticket-52 {
+  position: absolute;
+  top: 339px;
+  left: 0;
+  width: 1360px;
+  height: 183.5px;
+}
+.coliseum,
+.div99 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.coliseum {
+  top: 308.6px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.8px;
+}
+.div99 {
+  top: 307.8px;
+  left: 0;
+  font-size: var(--font-size-lgi-7);
+  color: var(--color-silver);
+  width: 23.5px;
+  height: 17.9px;
+}
+.march-31-20242 {
+  top: 308.8px;
+  left: 1116.9px;
+  text-align: center;
+  width: 114.1px;
+  height: 14.8px;
+}
+.div100,
+.lorem-ipsum-dolor38,
+.march-31-20242,
+.owen-owen2 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor38 {
+  top: 298.3px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 318px;
+  height: 36.9px;
+}
+.div100,
+.owen-owen2 {
+  left: 143.7px;
+  height: 14.6px;
+}
+.div100 {
+  top: 319px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.owen-owen2 {
+  top: 299.2px;
+  width: 196.9px;
+}
+.ticket-6-child2 {
+  position: absolute;
+  top: 305.3px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-darkblue);
+  width: 75.8px;
+  height: 21.6px;
+}
+.done3 {
+  position: absolute;
+  top: 308.7px;
+  left: 973.1px;
+  font-size: var(--font-size-sm-7);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 43.6px;
+  height: 14.6px;
+}
+.ticket-6-child3 {
+  position: absolute;
+  top: 296.6px;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  height: 38.6px;
+  object-fit: cover;
+}
+.tablertrash-icon17 {
+  position: absolute;
+  top: 0;
+  left: 1339px;
+  width: 21px;
+  height: 24px;
+  overflow: hidden;
+}
+.phpencil-line-icon17,
+.phpencil-line-icon18,
+.tablertrash-icon18 {
+  position: absolute;
+  top: 3px;
+  left: 1310px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.phpencil-line-icon18,
+.tablertrash-icon18 {
+  top: 303px;
+  left: 1339px;
+  height: 24px;
+}
+.phpencil-line-icon18 {
+  top: 306px;
+  left: 1310px;
+  height: 21px;
+}
+.ticket-62 {
+  position: absolute;
+  top: 263px;
+  left: 0;
+  width: 1360px;
+  height: 335.3px;
+}
+.div101,
+.icafe {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.icafe {
+  top: 459.4px;
+  left: 742.3px;
+  text-align: center;
+  width: 162px;
+  height: 14.8px;
+}
+.div101 {
+  top: 458.6px;
+  left: 0;
+  font-size: var(--font-size-lgi-7);
+  color: var(--color-silver);
+  width: 23.5px;
+  height: 17.9px;
+}
+.march-29-20242 {
+  top: 459.6px;
+  left: 1116.9px;
+  text-align: center;
+  width: 114.1px;
+  height: 14.8px;
+}
+.div102,
+.emman-magbato2,
+.lorem-ipsum-dolor39,
+.march-29-20242 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor39 {
+  top: 449.1px;
+  left: 388.6px;
+  font-size: var(--font-size-sm-1);
+  width: 318px;
+  height: 36.9px;
+}
+.div102,
+.emman-magbato2 {
+  left: 143.7px;
+  height: 14.6px;
+}
+.div102 {
+  top: 469.7px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.emman-magbato2 {
+  top: 450px;
+  width: 196.9px;
+}
+.ticket-7-child2 {
+  position: absolute;
+  top: 456.1px;
+  left: 956.6px;
+  border-radius: 43.81px;
+  background-color: var(--color-darkblue);
+  width: 75.8px;
+  height: 21.6px;
+}
+.done4 {
+  position: absolute;
+  top: 459.4px;
+  left: 973.1px;
+  font-size: var(--font-size-sm-7);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 43.6px;
+  height: 14.6px;
+}
+.ticket-7-child3 {
+  position: absolute;
+  top: 447.4px;
+  left: 86.2px;
+  border-radius: 4.36px;
+  width: 45.3px;
+  height: 38.6px;
+  object-fit: cover;
+}
+.tablertrash-icon19 {
+  position: absolute;
+  top: 0;
+  left: 1339px;
+  width: 21px;
+  height: 24px;
+  overflow: hidden;
+}
+.phpencil-line-icon19,
+.phpencil-line-icon20,
+.tablertrash-icon20 {
+  position: absolute;
+  top: 3px;
+  left: 1310px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.phpencil-line-icon20,
+.tablertrash-icon20 {
+  top: 454px;
+  left: 1339px;
+  height: 24px;
+}
+.phpencil-line-icon20 {
+  top: 457px;
+  left: 1310px;
+  height: 21px;
+}
+.recent-tickets8,
+.ticket-72 {
+  position: absolute;
+  top: 188px;
+  left: 0;
+  width: 1360px;
+  height: 486.1px;
+}
+.recent-tickets8 {
+  top: 27px;
+  left: 52px;
+  width: 1362px;
+  height: 674.1px;
+}
+.search-bar-child31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-gainsboro-100);
+  width: 230px;
+  height: 57px;
+}
+.search-entity {
+  position: absolute;
+  top: 21px;
+  left: 15px;
+  font-weight: 500;
+  display: inline-block;
+  width: 118px;
+}
+.search-bar-child32,
+.search-bar-child33,
+.search-bar22 {
+  position: absolute;
+  top: 1px;
+  left: 708px;
+  width: 230px;
+  height: 57px;
+}
+.search-bar-child32,
+.search-bar-child33 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-gainsboro-100);
+}
+.search-bar-child33 {
+  left: 186px;
+  border-radius: 0 var(--br-4xs) var(--br-4xs) 0;
+  background-color: var(--color-darkslategray-200);
+  width: 44px;
+}
+.search-for-reservation {
+  position: absolute;
+  top: 21px;
+  left: 15px;
+  font-weight: 500;
+  display: inline-block;
+  width: 159px;
+}
+.material-symbolssearch-icon15 {
+  position: absolute;
+  top: 19px;
+  left: 198px;
+  width: 20.4px;
+  height: 20.4px;
+  overflow: hidden;
+}
+.search-bar-child34,
+.search-bar23 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 230px;
+  height: 57px;
+}
+.search-bar-child34 {
+  top: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-gainsboro-100);
+  width: 415px;
+}
+.select-by-name2 {
+  position: absolute;
+  top: 21px;
+  left: 15px;
+  font-weight: 500;
+  display: inline-block;
+  width: 118px;
+}
+.search-bar24,
+.search-buttons4 {
+  position: absolute;
+  top: 0;
+  left: 262px;
+  width: 415px;
+  height: 57px;
+}
+.search-buttons4 {
+  top: 87px;
+  left: 52px;
+  width: 938px;
+  height: 58px;
+  font-size: var(--font-size-smi-5);
+  color: var(--color-dimgray);
+}
+.add-ticket-button-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen);
+  width: 324px;
+  height: 57px;
+}
+.icround-plus-icon2 {
+  position: absolute;
+  top: 3px;
+  left: 17px;
+  width: 51px;
+  height: 51px;
+  overflow: hidden;
+}
+.add-reservation {
+  position: absolute;
+  top: 16px;
+  left: 82px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 216px;
+  height: 26px;
+}
+.add-ticket-button2 {
+  position: absolute;
+  top: 88px;
+  left: 1090px;
+  width: 324px;
+  height: 57px;
+  text-align: center;
+  font-size: var(--font-size-9xl-2);
+  color: var(--color-white);
+}
+.tickets21 {
+  position: absolute;
+  top: 238px;
+  left: 287px;
+  width: 1581px;
+  height: 806px;
+  font-size: var(--font-size-base-1);
+  color: var(--color-gray-100);
+}
+.down-button-icon4 {
+  position: absolute;
+  top: 977px;
+  left: 1058px;
+  width: 37px;
+  height: 37px;
+}
+.reservations3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl-9);
+  color: var(--color-dimgray);
+  font-family: var(--font-archivo);
+}

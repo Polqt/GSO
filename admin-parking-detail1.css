@@ -1,0 +1,384 @@
+.header-child22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon20 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child23 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.search-bar-child46,
+.search-bar-child47 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  width: 622px;
+  height: 58px;
+}
+.search-bar-child47 {
+  left: 560px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-darkslategray-200);
+  width: 62px;
+}
+.search-command13 {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+  font-weight: 500;
+}
+.material-symbolssearch-icon20 {
+  position: absolute;
+  top: 12px;
+  left: 574px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.search-bar31 {
+  position: absolute;
+  top: 126px;
+  left: 1150px;
+  width: 622px;
+  height: 58px;
+}
+.material-symbolsnotifications-icon18 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon20 {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.welcome-back-johnny14 {
+  position: absolute;
+  top: 126px;
+  left: 144px;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 490.5px;
+  height: 61px;
+}
+.header13,
+.tickets-child23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+}
+.tickets-child23 {
+  border-radius: 14.87px;
+  background-color: var(--color-white);
+  border: 1.4px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 1581px;
+  height: 806px;
+}
+.nuo-9871,
+.sticker-request-01 {
+  position: absolute;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.nuo-9871 {
+  top: 189px;
+  left: 989px;
+  font-size: var(--font-size-4xl-8);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 232px;
+}
+.sticker-request-01 {
+  top: 27px;
+  left: 52px;
+  font-size: var(--font-size-23xl-4);
+  display: inline-block;
+  width: 437px;
+  height: 53px;
+}
+.nuo-9872,
+.plate-no1,
+.status16 {
+  position: absolute;
+  font-weight: 500;
+  text-align: center;
+}
+.nuo-9872 {
+  top: 189px;
+  left: 989px;
+  font-size: var(--font-size-4xl-8);
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 232px;
+}
+.plate-no1,
+.status16 {
+  top: 144px;
+  left: 1322px;
+  font-size: var(--font-size-7xl-6);
+  display: inline-block;
+  width: 93px;
+  height: 24px;
+}
+.plate-no1 {
+  top: 143px;
+  left: 1049px;
+  width: 112px;
+}
+.tickets-child24 {
+  position: absolute;
+  top: 131px;
+  left: 52px;
+  border-radius: 16.67px;
+  width: 181px;
+  height: 150px;
+  object-fit: cover;
+}
+.div118,
+.john-leonard-esperancilla18 {
+  position: absolute;
+  top: 173px;
+  left: 259px;
+  font-weight: 500;
+  color: var(--color-silver);
+  display: inline-block;
+  width: 216px;
+  height: 26px;
+}
+.john-leonard-esperancilla18 {
+  top: 134px;
+  color: var(--color-gray-100);
+  width: 369px;
+}
+.description8,
+.on-april-255 {
+  position: absolute;
+  left: 54px;
+  display: inline-block;
+}
+.description8 {
+  top: 332px;
+  font-size: var(--font-size-7xl-6);
+  font-weight: 500;
+  width: 159px;
+  height: 24.5px;
+}
+.on-april-255 {
+  top: 379px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.05em;
+  line-height: 35px;
+  width: 1468px;
+  height: 339px;
+}
+.april-04-202435,
+.honda-civic-black1 {
+  position: absolute;
+  top: 212px;
+  left: 259px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 216px;
+  height: 30px;
+}
+.honda-civic-black1 {
+  top: 251px;
+  width: 275px;
+}
+.tickets-child25 {
+  position: absolute;
+  top: 183px;
+  left: 1299px;
+  border-radius: var(--br-57xl);
+  background-color: var(--color-red-100);
+  width: 138px;
+  height: 38px;
+}
+.violation1 {
+  position: absolute;
+  top: 189px;
+  left: 1317px;
+  font-size: var(--font-size-4xl-8);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 102px;
+}
+.tickets-child26 {
+  position: absolute;
+  top: 699px;
+  left: 54px;
+  border-radius: 52.52px;
+  background-color: var(--color-seagreen);
+  width: 151px;
+  height: 37.4px;
+}
+.contact-user1 {
+  position: absolute;
+  top: 708.2px;
+  left: 72.4px;
+  font-size: var(--font-size-lg-9);
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 114.2px;
+  height: 19.7px;
+}
+.tickets-child27 {
+  position: absolute;
+  height: 6.41%;
+  width: 3.27%;
+  top: 5.21%;
+  right: 2.11%;
+  bottom: 88.37%;
+  left: 94.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tickets28 {
+  position: absolute;
+  top: 238px;
+  left: 287px;
+  width: 1581px;
+  height: 806px;
+  font-size: var(--font-size-9xl-8);
+}
+.navigation-column-child22 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard20 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages13 {
+  top: 243px;
+  left: 50px;
+}
+.messages13,
+.notifications19,
+.tickets29 {
+  position: absolute;
+  font-weight: 500;
+}
+.tickets29 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 82px;
+}
+.notifications19 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.files20,
+.services20,
+.settings21 {
+  position: absolute;
+  left: 50px;
+  font-weight: 500;
+}
+.services20 {
+  top: 310px;
+  color: var(--color-forestgreen);
+}
+.files20,
+.settings21 {
+  top: 377px;
+}
+.settings21 {
+  top: 461px;
+}
+.navigation-column-child23 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.wrapper-rectangle-3-child14 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.417);
+}
+.wrapper-rectangle-316 {
+  position: absolute;
+  top: 305px;
+  left: 34px;
+  border-radius: 7.51px;
+  width: 128px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation-column12 {
+  position: absolute;
+  top: 216px;
+  left: -1px;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+}
+.parkingpass-thru-detail-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl-9);
+  color: var(--color-dimgray);
+  font-family: var(--font-archivo);
+}

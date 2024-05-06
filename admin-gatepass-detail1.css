@@ -1,0 +1,362 @@
+.header-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-item {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.search-bar-child,
+.search-bar-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  width: 622px;
+  height: 58px;
+}
+.search-bar-item {
+  left: 560px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-darkslategray-200);
+  width: 62px;
+}
+.search-command {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+  font-weight: 500;
+}
+.material-symbolssearch-icon {
+  position: absolute;
+  top: 12px;
+  left: 574px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.search-bar {
+  position: absolute;
+  top: 126px;
+  left: 1150px;
+  width: 622px;
+  height: 58px;
+}
+.material-symbolsnotifications-icon {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.welcome-back-johnny {
+  position: absolute;
+  top: 126px;
+  left: 144px;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 490.5px;
+  height: 61px;
+}
+.header,
+.tickets-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+}
+.tickets-child {
+  border-radius: 14.87px;
+  background-color: var(--color-white);
+  border: 1.4px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 1581px;
+  height: 806px;
+}
+.gate-pass-request {
+  position: absolute;
+  top: 27px;
+  left: 52px;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 437px;
+  height: 53px;
+}
+.status,
+.student,
+.type {
+  position: absolute;
+  font-weight: 500;
+  text-align: center;
+}
+.student {
+  top: 189px;
+  left: 989px;
+  font-size: var(--font-size-4xl-8);
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 232px;
+}
+.status,
+.type {
+  top: 144px;
+  left: 1322px;
+  display: inline-block;
+  width: 93px;
+  height: 24px;
+}
+.type {
+  top: 143px;
+  left: 1059px;
+}
+.tickets-item {
+  position: absolute;
+  top: 131px;
+  left: 52px;
+  border-radius: 16.67px;
+  width: 181px;
+  height: 150px;
+  object-fit: cover;
+}
+.div,
+.john-leonard-esperancilla {
+  position: absolute;
+  top: 182px;
+  left: 259px;
+  font-size: var(--font-size-9xl-8);
+  font-weight: 500;
+  color: var(--color-silver);
+  display: inline-block;
+  width: 216px;
+  height: 26px;
+}
+.john-leonard-esperancilla {
+  top: 143px;
+  color: var(--color-gray-100);
+  width: 369px;
+}
+.description {
+  top: 332px;
+  left: 54px;
+  font-weight: 500;
+  width: 159px;
+  height: 24.5px;
+}
+.april-04-2024,
+.description,
+.on-april-25 {
+  position: absolute;
+  display: inline-block;
+}
+.on-april-25 {
+  top: 379px;
+  left: 54px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.05em;
+  line-height: 35px;
+  width: 1468px;
+  height: 339px;
+}
+.april-04-2024 {
+  top: 220px;
+  left: 259px;
+  font-size: var(--font-size-9xl-8);
+  font-weight: 500;
+  color: var(--color-gray-100);
+  width: 216px;
+  height: 30px;
+}
+.tickets-inner {
+  position: absolute;
+  top: 183px;
+  left: 1299px;
+  border-radius: var(--br-57xl);
+  background-color: var(--color-yellowgreen-100);
+  width: 138px;
+  height: 38px;
+}
+.ongoing {
+  position: absolute;
+  top: 189px;
+  left: 1321px;
+  font-size: var(--font-size-4xl-8);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 93px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 699px;
+  left: 54px;
+  border-radius: 52.52px;
+  background-color: var(--color-seagreen);
+  width: 151px;
+  height: 37.4px;
+}
+.contact-user {
+  position: absolute;
+  top: 708.2px;
+  left: 72.4px;
+  font-size: var(--font-size-lg-9);
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 114.2px;
+  height: 19.7px;
+}
+.group-icon {
+  position: absolute;
+  height: 6.41%;
+  width: 3.27%;
+  top: 5.21%;
+  right: 2.11%;
+  bottom: 88.37%;
+  left: 94.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tickets {
+  position: absolute;
+  top: 238px;
+  left: 287px;
+  width: 1581px;
+  height: 806px;
+  font-size: var(--font-size-7xl-6);
+}
+.navigation-column-child {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages {
+  top: 243px;
+  left: 50px;
+}
+.messages,
+.notifications,
+.tickets1 {
+  position: absolute;
+  font-weight: 500;
+}
+.tickets1 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 82px;
+}
+.notifications {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.files,
+.services,
+.settings {
+  position: absolute;
+  left: 50px;
+  font-weight: 500;
+}
+.services {
+  top: 310px;
+  color: var(--color-forestgreen);
+}
+.files,
+.settings {
+  top: 377px;
+}
+.settings {
+  top: 461px;
+}
+.navigation-column-item {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.wrapper-rectangle-3-child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.417);
+}
+.wrapper-rectangle-3 {
+  position: absolute;
+  top: 305px;
+  left: 34px;
+  border-radius: 7.51px;
+  width: 128px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation-column {
+  position: absolute;
+  top: 216px;
+  left: -1px;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+}
+.gate-pass-detail-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl-9);
+  color: var(--color-dimgray);
+  font-family: var(--font-archivo);
+}

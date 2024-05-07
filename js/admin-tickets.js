@@ -53,3 +53,7 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "admin-ticket1.html"; 
     });
 });
+
+function remove() {
+
+}

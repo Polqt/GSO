@@ -46,3 +46,10 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "admin-settings.html"; 
     });
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+    const ticketsElement = document.querySelector(".tickets-child23");
+    ticketsElement.addEventListener("click", function() {
+        window.location.href = "admin-tickets.html"; 
+    });
+});

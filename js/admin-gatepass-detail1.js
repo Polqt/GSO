@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 document.addEventListener("DOMContentLoaded", function() {
-    const ticketsElement = document.querySelector(".tickets");
+    const ticketsElement = document.querySelector(".tickets1");
     ticketsElement.addEventListener("click", function() {
         window.location.href = "admin-tickets.html"; 
     });
@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 document.addEventListener("DOMContentLoaded", function() {
-    const ticketsElement = document.querySelector(".services");
+    const ticketsElement = document.querySelector(".wrapper-rectangle-3");
     ticketsElement.addEventListener("click", function() {
         window.location.href = "admin-services.html"; 
     });
@@ -44,12 +44,5 @@ document.addEventListener("DOMContentLoaded", function() {
     const ticketsElement = document.querySelector(".settings");
     ticketsElement.addEventListener("click", function() {
         window.location.href = "admin-settings.html"; 
-    });
-});
-
-document.addEventListener("DOMContentLoaded", function() {
-    const ticketsElement = document.querySelector(".john-leonard-esperancilla");
-    ticketsElement.addEventListener("click", function() {
-        window.location.href = "admin-ticket1.html"; 
     });
 });

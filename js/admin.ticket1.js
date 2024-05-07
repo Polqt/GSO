@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
 document.addEventListener("DOMContentLoaded", function() {
     const ticketsElement = document.querySelector(".wrapper-rectangle-315");
     ticketsElement.addEventListener("click", function() {
-        window.location.href = "admin-ticket.html"; 
+        window.location.href = "admin-tickets.html"; 
     });
 });
 

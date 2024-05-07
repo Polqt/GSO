@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
 document.addEventListener("DOMContentLoaded", function() {
     const ticketsElement = document.querySelector(".tickets18");
     ticketsElement.addEventListener("click", function() {
-        window.location.href = "admin-notification.html"; 
+        window.location.href = "admin-tickets.html"; 
     });
 });
 
@@ -44,5 +44,12 @@ document.addEventListener("DOMContentLoaded", function() {
     const ticketsElement = document.querySelector(".settings16");
     ticketsElement.addEventListener("click", function() {
         window.location.href = "admin-settings.html"; 
+    });
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    const ticketsElement = document.querySelector(".john-leonard-esperancilla14");
+    ticketsElement.addEventListener("click", function() {
+        window.location.href = "admin-parking-detail1.html"; 
     });
 });

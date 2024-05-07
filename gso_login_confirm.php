@@ -2,7 +2,7 @@
 
 $conn = mysqli_connect("localhost", "root", "", "gso") or die(mysqli_error($conn));
 
-$email = $_POST['email'];
+$email = $_POST['Email'];
 $password = $_POST['password'];
 
 $sql = "select * from student_acc where Email ='$email' and Password = '$password'";

@@ -106,43 +106,6 @@ input:not(:placeholder-shown) ~ .reset {
   margin-top: 3px;
 }
 
-.search-bar-child,
-.search-bar-item {
-  position: absolute;
-  top: 0;
-  left: 0;
-  border-radius: var(--br-mini);
-  background-color: var(--color-gainsboro-100);
-  width: 622px;
-  height: 58px;
-}
-.search-bar-item {
-  left: 560px;
-  border-radius: 0 var(--br-mini) var(--br-mini) 0;
-  background-color: var(--color-darkslategray-200);
-  width: 62px;
-}
-.search-command {
-  position: absolute;
-  top: 19px;
-  left: 34px;
-  font-weight: 500;
-}
-.material-symbolssearch-icon {
-  position: absolute;
-  top: 12px;
-  left: 574px;
-  width: 34px;
-  height: 34px;
-  overflow: hidden;
-}
-.search-bar {
-  position: absolute;
-  top: 126px;
-  left: 1150px;
-  width: 622px;
-  height: 58px;
-}
 .material-symbolsnotifications-icon {
   position: absolute;
   top: 136px;

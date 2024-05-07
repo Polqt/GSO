@@ -1,24 +1,29 @@
-<?php
-session_start();
-$conn = mysqli_connect("localhost", "root", "", "gso") or die(mysqli_error($conn));
-
-if (isset($_POST['submit'])) {
-    $AcctID = $_POST['acctid'];
-    $AcctType = $_POST['accttype'];
-    $FirstName = $_POST['firstname'];
-    $LastName = $_POST['lastname'];
-    $Email = $_POST['email'];
-    $Password = $_POST['password'];
-    $Birthday = $_POST['birthday'];
-
-    $sql = "INSERT INTO student_acc (acctId, accttype, firstname, lastname, email, password, birthday) VALUES ('$AcctID','$AcctType','$FirstName', '$LastName', '$Email', '$Password', '$Birthday')";
-    $q = mysqli_query($conn, $sql) or die(mysqli_error($conn));
-}
-?>
-
 <div class="wrapper">
-    <form method="post" action="gso_add_user.php">
-        <h3>New user added! Please inform the student or faculty that their account is ready.</h3>
-        <input type="submit" name="return" value="Return to Add User" id="btn" />
-    </form>
+<form action="gso_add_user_confirm.php" method="post">
+    <h1>New User Account</h1>
+    <h4>Account Type:</h4>
+        <select name="accttype">
+        <option value="Student">Student</option>
+        <option value="Faculty/Staff">Faculty / Staff</option>
+            <id="accttype" name="accttype">
+    </select>
+    <h3>Personal Details</h3>
+    <p>Please refer to the form that the user has submitted for registration</p>
+    <label for="firstname"><b>First Name </b></label>
+    <input type="text" name="firstname" id="firstname" /><br />
+    <label for="lastname"><b>Last Name</b></label>
+    <input type="text" name="lastname" id="lastname" /><br /><br />
+    <label for="acctid"><b>Account ID</b></label>
+    <input type="text" name="acctid" id="acctid" /><br />
+        <form method="post">
+        <label for="birthday">Select Your Birthday:</label>
+        <input type="date" id="birthday" name="birthday"><br><br>
+    <label for="username"><b>Username</b></label>
+    <input type="text" name="username" id="username" /><br /><br />
+    <label for="password"><b>User Password</b></label>
+    <input type="text" name="password" id="password" /><br />
+    <i>For password, default format is: First Initial + Last Initial + University ID (TD00000)</i><br />
+    <input type="submit" name="submit" value="Submit" id="btn" />
+
+</form>
 </div>

@@ -102,10 +102,6 @@ button:hover svg {
   transform: translateX(5px);
 }
 
-button:active {
-  transform: scale(0.95);
-}
-
 .forgot-password,
 .rectangle-group {
   position: absolute;

@@ -2,10 +2,10 @@
 
 $conn = mysqli_connect("localhost", "root", "", "gso") or die(mysqli_error($conn));
 
-$email = $_POST['Email'];
+$username = $_POST['username'];
 $password = $_POST['password'];
 
-$sql = "select * from student_acc where Email ='$email' and Password = '$password'";
+$sql = "select * from student_acc where Username ='$username' and Password = '$password'";
 $qry = mysqli_query($conn, $sql) or die(mysqli_error($conn));
 $r = mysqli_fetch_assoc($qry);
 
@@ -14,12 +14,12 @@ if ($qry) {
         session_start();
         $_SESSION['ID'] = $r['AcctID'];
         if (!empty($_SESSION['ID'])) {
-            header("location:gso_add_user.php");
+            header("location:admin-dashboard.html");
         } else {
             header("location:gso_login_error.php");
         }
     } elseif (mysqli_num_rows($qry) <= 0) {
-        $sql = "select * from student_acc where Email ='$email' and Password = '$password'";
+        $sql = "select * from student_acc where Username ='$username' and Password = '$password'";
         $qry = mysqli_query($conn, $sql) or die(mysqli_error($conn));
         $r = mysqli_fetch_assoc($qry);
         if ($qry) {
@@ -27,12 +27,12 @@ if ($qry) {
                 session_start();
                 $_SESSION['ID'] = $r['AcctID'];
                 if (!empty($_SESSION['ID'])) {
-                    header("location:gso_add_user.php");
+                    header("location:admin-dashboard.html");
                 } else {
                     header("location:gso_login_error.php");
                 }
             } elseif (mysqli_num_rows($qry) <= 0) {
-                $sql = "select * from student_acc where Email ='$email' and Password = '$password'";
+                $sql = "select * from student_acc where Username ='$username' and Password = '$password'";
                 $qry = mysqli_query($conn, $sql) or die(mysqli_error($conn));
                 $r = mysqli_fetch_assoc($qry);
                 if ($qry) {
@@ -40,7 +40,7 @@ if ($qry) {
                         session_start();
                         $_SESSION['ID'] = $r['AcctID'];
                         if (!empty($_SESSION['ID'])) {
-                            header("location:gso_add_user.php");
+                            header("location:admin-dashboard.php");
                         } else {
                             header("location:gso_login_error.php");
                         }

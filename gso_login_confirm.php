@@ -40,7 +40,7 @@ if ($qry) {
                         session_start();
                         $_SESSION['ID'] = $r['AcctID'];
                         if (!empty($_SESSION['ID'])) {
-                            header("location:admin-dashboard.php");
+                            header("location:admin-dashboard.html");
                         } else {
                             header("location:gso_login_error.php");
                         }
@@ -51,14 +51,14 @@ if ($qry) {
                 }
 
             } else {
-                header("location:gso_login_error.php");
+                header("location:index.php");
             }
         } else {
-            header("location:gso_login_error.php");
+            header("location:index.php");
         }
     } else {
-        header("location:gso_login_error.php");
+        header("location:index.php");
     }
 } else {
-    header("location:gso_login_error.php");
+    header("location:index.php");
 }

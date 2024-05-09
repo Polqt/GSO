@@ -1,6 +1,6 @@
 <?php
 if (isset($_POST['retry']))
-    header("location:gso_login.php");
+    header("location:index.php");
 ?>
 
 

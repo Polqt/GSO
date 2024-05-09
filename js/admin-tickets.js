@@ -54,6 +54,10 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 
+function redirectToPHP() {
+    window.location.href = 'index.php'; 
+  }
+  
 document.querySelector('.tablertrash-icon5').addEventListener('click', function() {
     document.querySelectorAll('.ticket-1, .tablertrash-icon5, .phpencil-line-icon5').forEach(function(element) {
         element.remove();

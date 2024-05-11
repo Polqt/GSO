@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 document.addEventListener("DOMContentLoaded", function() {
-    const ticketsElement = document.querySelector(".wrapper-rectangle-36");
+    const ticketsElement = document.querySelector(".notifications9");
     ticketsElement.addEventListener("click", function() {
         window.location.href = "admin-notification.html"; 
     });
@@ -53,3 +53,7 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "admin-notification-osa.html"; 
     });
 });
+
+function redirectToPHP() {
+    window.location.href = 'index.php'; 
+  }

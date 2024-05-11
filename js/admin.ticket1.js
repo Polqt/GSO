@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 document.addEventListener("DOMContentLoaded", function() {
-    const ticketsElement = document.querySelector(".wrapper-rectangle-315");
+    const ticketsElement = document.querySelector(".tickets26");
     ticketsElement.addEventListener("click", function() {
         window.location.href = "admin-tickets.html"; 
     });
@@ -53,3 +53,8 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "admin-tickets.html"; 
     });
 });
+
+function redirectToPHP() {
+    window.location.href = 'index.php'; 
+  }
+  

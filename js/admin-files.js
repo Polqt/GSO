@@ -46,3 +46,7 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "admin-settings.html"; 
     });
 });
+
+function redirectToPHP() {
+    window.location.href = 'index.php'; 
+  }

@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 document.addEventListener("DOMContentLoaded", function() {
-    const ticketsElement = document.querySelector(".wrapper-rectangle-316");
+    const ticketsElement = document.querySelector(".services20");
     ticketsElement.addEventListener("click", function() {
         window.location.href = "admin-services.html"; 
     });
@@ -53,3 +53,7 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "admin-parking.html"; 
     });
 });
+
+function redirectToPHP() {
+    window.location.href = 'index.php'; 
+  }

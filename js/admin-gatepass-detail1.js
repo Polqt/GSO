@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 document.addEventListener("DOMContentLoaded", function() {
-    const ticketsElement = document.querySelector(".wrapper-rectangle-3");
+    const ticketsElement = document.querySelector(".services");
     ticketsElement.addEventListener("click", function() {
         window.location.href = "admin-services.html"; 
     });
@@ -53,3 +53,7 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "admin-gatepass.html"; 
     });
 });
+
+function redirectToPHP() {
+    window.location.href = 'index.php'; 
+  }

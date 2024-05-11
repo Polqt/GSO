@@ -11,6 +11,7 @@
   height: 1080px;
   overflow: hidden;
 }
+
 .frame-child {
   position: absolute;
   bottom: 0;
@@ -21,21 +22,21 @@
   width: 400px;
   height: 85px;
 }
+
 .sign-in-with {
   position: absolute;
-  top: 28px;
-  left: calc(50% - 64px);
+  top: 50%;
+  left: 50%;
+  position: absolute; 
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 24px;
+  border-radius: var(--br-xs);
+  display: flex; 
+  justify-content: center; 
+  text-align: center;
 }
 
-.flat-color-iconsgoogle {
-  position: absolute;
-  top: 19px;
-  left: 82px;
-  width: 48px;
-  height: 48px;
-  overflow: hidden;
-  object-fit: cover;
-}
 .rectangle-parent {
   width: 400px;
   position: absolute;
@@ -46,6 +47,7 @@
   overflow: hidden;
   z-index: 0;
 }
+
 .frame-item {
   position: absolute;
   bottom: 0;
@@ -77,7 +79,12 @@
   display: flex; 
   justify-content: center; 
   text-align: center;
+}
 
+svg {
+  position: relative;
+  top: 2px; 
+  left: 2px;
 }
 
 button {
@@ -91,6 +98,7 @@ button {
   width: 400px;
   height: 85px;
 }
+
 
 button > svg {
   width: 34px;

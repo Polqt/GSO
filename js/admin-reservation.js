@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 document.addEventListener("DOMContentLoaded", function() {
-    const ticketsElement = document.querySelector(".wrapper-rectangle-312");
+    const ticketsElement = document.querySelector(".services16");
     ticketsElement.addEventListener("click", function() {
         window.location.href = "admin-services.html"; 
     });
@@ -53,3 +53,7 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "admin-reservation-detail1.html"; 
     });
 });
+
+function redirectToPHP() {
+    window.location.href = 'index.php'; 
+  }

@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 document.addEventListener("DOMContentLoaded", function() {
-    const ticketsElement = document.querySelector(".wrapper-rectangle-3");
+    const ticketsElement = document.querySelector(".messages");
     ticketsElement.addEventListener("click", function() {
         window.location.href = "admin-message.html"; 
     });
@@ -53,3 +53,7 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "admin-.html"; 
     });
 });
+
+function redirectToPHP() {
+    window.location.href = 'index.php'; 
+  }

@@ -1189,7 +1189,6 @@ input:not(:placeholder-shown) ~ .reset {
   left: 50px;
 }
 
-/* plus sign */
 .sign {
   width: 100%;
   transition-duration: 0.3s;
@@ -1205,7 +1204,7 @@ input:not(:placeholder-shown) ~ .reset {
 .sign svg path {
   fill: black;
 }
-/* text */
+
 .text {
   position: absolute;
   right: 0%;
@@ -1216,7 +1215,7 @@ input:not(:placeholder-shown) ~ .reset {
   font-weight: 600;
   transition-duration: 0.3s;
 }
-/* hover effect on button width */
+
 .logout:hover {
   width: 125px;
   border-radius: 40px;
@@ -1228,13 +1227,13 @@ input:not(:placeholder-shown) ~ .reset {
   transition-duration: 0.3s;
   padding-left: 20px;
 }
-/* hover effect button's text */
+
 .logout:hover .text {
   opacity: 1;
   width: 70%;
   transition-duration: 0.3s;
 }
-/* button click effect*/
+
 .logout:active {
   transform: translate(2px, 2px);
 }

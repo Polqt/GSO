@@ -8,3 +8,7 @@ function togglePasswordVisibility() {
       document.querySelector('.toggle-password').textContent = 'Show';
     }
   }
+
+  document.getElementById("sign-in-button").addEventListener("click", function() {
+    window.location.href = "gso_add_user.php";
+  });

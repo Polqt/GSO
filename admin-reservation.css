@@ -580,8 +580,7 @@ input:not(:placeholder-shown) ~ .reset {
   width: 43.6px;
   height: 14.6px;
 }
-.ticket-3-child3,
-.ticket-32 {
+.ticket-3-child3 {
   position: absolute;
   height: 38.6px;
 }
@@ -592,11 +591,7 @@ input:not(:placeholder-shown) ~ .reset {
   width: 45.3px;
   object-fit: cover;
 }
-.ticket-32 {
-  top: 332.5px;
-  left: 0;
-  width: 1224px;
-}
+
 .div95,
 .microphones {
   position: absolute;
@@ -698,13 +693,7 @@ input:not(:placeholder-shown) ~ .reset {
   left: 1310px;
   height: 21px;
 }
-.ticket-42 {
-  position: absolute;
-  top: 408px;
-  left: 0;
-  width: 1360px;
-  height: 38.6px;
-}
+
 .div97,
 .speakers {
   position: absolute;
@@ -821,13 +810,7 @@ input:not(:placeholder-shown) ~ .reset {
   left: 1310px;
   height: 21px;
 }
-.ticket-52 {
-  position: absolute;
-  top: 339px;
-  left: 0;
-  width: 1360px;
-  height: 183.5px;
-}
+
 .coliseum,
 .div99 {
   position: absolute;
@@ -944,13 +927,7 @@ input:not(:placeholder-shown) ~ .reset {
   left: 1310px;
   height: 21px;
 }
-.ticket-62 {
-  position: absolute;
-  top: 263px;
-  left: 0;
-  width: 1360px;
-  height: 335.3px;
-}
+
 .div101,
 .icafe {
   position: absolute;
@@ -1067,8 +1044,7 @@ input:not(:placeholder-shown) ~ .reset {
   left: 1310px;
   height: 21px;
 }
-.recent-tickets8,
-.ticket-72 {
+.recent-tickets8 {
   position: absolute;
   top: 188px;
   left: 0;
@@ -1238,4 +1214,71 @@ input:not(:placeholder-shown) ~ .reset {
   font-size: var(--font-size-xl-9);
   color: var(--color-dimgray);
   font-family: var(--font-archivo);
+}
+
+.logout {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 45px;
+  height: 45px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition-duration: 0.3s;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.199);
+  background-color: RGB(29, 185, 84);
+  top: 775px;
+  left: 50px;
+}
+
+.sign {
+  width: 100%;
+  transition-duration: 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sign svg {
+  width: 18px;
+}
+
+.sign svg path {
+  fill: black;
+}
+
+.text {
+  position: absolute;
+  right: 0%;
+  width: 0%;
+  opacity: 0;
+  color: black;
+  font-size: 1.2em;
+  font-weight: 600;
+  transition-duration: 0.3s;
+}
+
+.logout:hover {
+  width: 125px;
+  border-radius: 40px;
+  transition-duration: 0.3s;
+}
+
+.logout:hover .sign {
+  width: 30%;
+  transition-duration: 0.3s;
+  padding-left: 20px;
+}
+
+.logout:hover .text {
+  opacity: 1;
+  width: 70%;
+  transition-duration: 0.3s;
+}
+
+.logout:active {
+  transform: translate(2px, 2px);
 }

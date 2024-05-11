@@ -67,3 +67,7 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "admin-gatepass.html"; 
     });
 });
+
+function redirectToPHP() {
+    window.location.href = 'index.php'; 
+  }

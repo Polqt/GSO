@@ -249,36 +249,56 @@
   text-align: center;
   color: var(--color-gray-100);
 }
-.search-bar-child11 {
+
+.search-buttons {
   position: absolute;
-  top: 0;
-  left: 0;
-  border-radius: var(--br-4xs);
-  background-color: var(--color-gainsboro-100);
-  width: 415px;
+  width: 760px; 
   height: 57px;
-}
-.select-by-sender {
-  position: absolute;
-  top: 21px;
-  left: 15px;
-  font-weight: 500;
-  display: inline-block;
-  width: 167px;
-}
-.search-bar10,
-.search-buttons1 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 415px;
-  height: 57px;
-}
-.search-buttons1 {
-  top: 87px;
+  top: 90px;
   left: 52px;
-  font-size: var(--font-size-smi-5);
+  max-width: 190px;
 }
+
+.searchbox {
+  width: 230px; 
+  height: 57px; 
+}
+
+.searchbox input {
+  font-size: 100%;
+  padding: 0.8em;
+  outline: none;
+  border: 2px solid var(--color-seagreen-100);
+  background-color: transparent;
+  border-radius: 20px;
+  width: 100%;
+}
+
+.searchbox label {
+  font-size: 100%;
+  position: absolute;
+  top: 2px;
+  left: 0;
+  padding: 0.8em;
+  margin-left: 0.5em;
+  pointer-events: none;
+  transition: all 0.3s ease;
+  color: black;
+}
+
+.searchbox :is(input:focus, input:valid)~label {
+  transform: translateY(-50%) scale(.9);
+  margin: 0em;
+  margin-left: 1.3em;
+  padding: 0.4em;
+  background-color: white;
+  color: black;
+}
+
+.inputGroup :is(input:focus, input:valid) {
+  border-color: var(--color-seagreen-100);
+}
+
 .announcement-preview,
 .date8,
 .sent-by3,

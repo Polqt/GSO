@@ -96,6 +96,42 @@ input:focus {
   visibility: hidden;
 }
 
+.tablertrash-icon1 {
+  position: absolute;
+  top: 0;
+  left: 1339px;
+  width: 21px;
+  height: 24px;
+  overflow: hidden;
+}
+
+.phpencil-line-icon1 {
+  position: absolute;
+  top: 3px;
+  left: 1310px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+
+.tablertrash-icon5 {
+  position: absolute;
+  top: 0;
+  left: 1339px;
+  width: 21px;
+  height: 24px;
+  overflow: hidden;
+}
+
+.phpencil-line-icon5 {
+  position: absolute;
+  top: 3px;
+  left: 1310px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+
 input:not(:placeholder-shown) ~ .reset {
   opacity: 1;
   visibility: visible;
@@ -1057,137 +1093,72 @@ input:not(:placeholder-shown) ~ .reset {
   width: 1362px;
   height: 674.1px;
 }
-.search-bar-child31 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  border-radius: var(--br-4xs);
-  background-color: var(--color-gainsboro-100);
-  width: 230px;
-  height: 57px;
-}
-.search-entity {
-  position: absolute;
-  top: 21px;
-  left: 15px;
-  font-weight: 500;
-  display: inline-block;
-  width: 118px;
-}
-.search-bar-child32,
-.search-bar-child33,
-.search-bar22 {
+
+.search-bar1 {
   position: absolute;
   top: 1px;
-  left: 708px;
+  left: 600px;
   width: 230px;
   height: 57px;
 }
-.search-bar-child32,
-.search-bar-child33 {
+
+.search-bar3 {
+  position: absolute;
   top: 0;
-  left: 0;
-  border-radius: var(--br-4xs);
-  background-color: var(--color-gainsboro-100);
-}
-.search-bar-child33 {
-  left: 186px;
-  border-radius: 0 var(--br-4xs) var(--br-4xs) 0;
-  background-color: var(--color-darkslategray-200);
-  width: 44px;
-}
-.search-for-reservation {
-  position: absolute;
-  top: 21px;
-  left: 15px;
-  font-weight: 500;
-  display: inline-block;
-  width: 159px;
-}
-.material-symbolssearch-icon15 {
-  position: absolute;
-  top: 19px;
-  left: 198px;
-  width: 20.4px;
-  height: 20.4px;
-  overflow: hidden;
-}
-.search-bar-child34,
-.search-bar23 {
-  position: absolute;
-  top: 1px;
-  left: 0;
+  left: 300px;
   width: 230px;
   height: 57px;
 }
-.search-bar-child34 {
-  top: 0;
-  border-radius: var(--br-4xs);
-  background-color: var(--color-gainsboro-100);
-  width: 415px;
-}
-.select-by-name2 {
+
+.search-buttons {
   position: absolute;
-  top: 21px;
-  left: 15px;
-  font-weight: 500;
-  display: inline-block;
-  width: 118px;
-}
-.search-bar24,
-.search-buttons4 {
-  position: absolute;
-  top: 0;
-  left: 262px;
-  width: 415px;
+  width: 760px; 
   height: 57px;
-}
-.search-buttons4 {
-  top: 87px;
+  top: 90px;
   left: 52px;
-  width: 938px;
-  height: 58px;
-  font-size: var(--font-size-smi-5);
-  color: var(--color-dimgray);
+  max-width: 190px;
 }
-.add-ticket-button-inner {
+
+.searchbox {
+  width: 230px; 
+  height: 57px; 
+}
+
+.searchbox input {
+  font-size: 100%;
+  padding: 0.8em;
+  outline: none;
+  border: 2px solid var(--color-seagreen-100);
+  background-color: transparent;
+  border-radius: 20px;
+  width: 100%;
+}
+
+.searchbox label {
+  font-size: 100%;
   position: absolute;
-  top: 0;
+  top: 2px;
   left: 0;
-  border-radius: var(--br-4xs);
-  background-color: var(--color-seagreen);
-  width: 324px;
-  height: 57px;
+  padding: 0.8em;
+  margin-left: 0.5em;
+  pointer-events: none;
+  transition: all 0.3s ease;
+  color: black;
 }
-.icround-plus-icon2 {
-  position: absolute;
-  top: 3px;
-  left: 17px;
-  width: 51px;
-  height: 51px;
-  overflow: hidden;
+
+.searchbox :is(input:focus, input:valid)~label {
+  transform: translateY(-50%) scale(.9);
+  margin: 0em;
+  margin-left: 1.3em;
+  padding: 0.4em;
+  background-color: white;
+  color: black;
 }
-.add-reservation {
-  position: absolute;
-  top: 16px;
-  left: 82px;
-  font-weight: 500;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 216px;
-  height: 26px;
+
+.inputGroup :is(input:focus, input:valid) {
+  border-color: var(--color-seagreen-100);
 }
-.add-ticket-button2 {
-  position: absolute;
-  top: 88px;
-  left: 1090px;
-  width: 324px;
-  height: 57px;
-  text-align: center;
-  font-size: var(--font-size-9xl-2);
-  color: var(--color-white);
-}
+
 .tickets21 {
   position: absolute;
   top: 238px;

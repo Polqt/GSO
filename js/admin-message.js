@@ -57,3 +57,4 @@ document.addEventListener("DOMContentLoaded", function() {
 function redirectToPHP() {
     window.location.href = 'index.php'; 
   }
+  

@@ -1,0 +1,322 @@
+.header-child32 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon25 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child33 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.material-symbolsnotifications-icon23 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon25 {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.welcome-back-johnny19 {
+  position: absolute;
+  top: 126px;
+  left: 144px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 490.5px;
+  height: 61px;
+}
+.header18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+}
+.navigation-column-child32 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard25 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages18 {
+  top: 243px;
+  left: 50px;
+}
+.messages18,
+.notifications24,
+.services25 {
+  position: absolute;
+  font-weight: 500;
+}
+.services25 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 95px;
+}
+.notifications24 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.about-us3,
+.help-support3,
+.settings26 {
+  position: absolute;
+  top: 310px;
+  left: 50px;
+  font-weight: 500;
+}
+.help-support3,
+.settings26 {
+  top: 377px;
+}
+.settings26 {
+  top: 461px;
+}
+.navigation-column-child33 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.wrapper-rectangle-3-child18 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.417);
+}
+.wrapper-rectangle-320 {
+  position: absolute;
+  top: 103px;
+  left: 35px;
+  border-radius: 7.51px;
+  width: 127px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation-column17 {
+  position: absolute;
+  top: 216px;
+  left: -2px;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.tickets-child40 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 14.87px;
+  background-color: var(--color-white);
+  border: 1.4px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 1581px;
+  height: 806px;
+}
+.tickets-child41 {
+  position: absolute;
+  height: 6.41%;
+  width: 3.27%;
+  top: 5.21%;
+  right: 2.11%;
+  bottom: 88.37%;
+  left: 94.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.car-parking,
+.requirements {
+  position: absolute;
+  top: 41px;
+  left: 36px;
+  font-weight: 500;
+  display: inline-block;
+  width: 708px;
+  height: 53px;
+}
+.requirements {
+  top: 154px;
+}
+.tickets-child42 {
+  position: absolute;
+  top: 117px;
+  left: 0;
+  max-height: 100%;
+  width: 1581px;
+}
+.span {
+  font-size: var(--font-size-21xl);
+}
+.acquire-from-gso {
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgray);
+}
+.filled-out-registration-form1 {
+  margin-bottom: 0;
+}
+.updated-or-official {
+  font-size: var(--font-size-11xl);
+}
+.updated-or-official-receipt1 {
+  color: var(--color-black);
+}
+.updated-or-official-receipt {
+  margin-bottom: 0;
+}
+.valid-drivers-license2 {
+  font-size: var(--font-size-11xl);
+}
+.valid-drivers-license1 {
+  color: var(--color-black);
+}
+.valid-drivers-license {
+  margin-bottom: 0;
+}
+.signed-consent-letter {
+  font-size: var(--font-size-11xl);
+}
+.span1 {
+  font-size: var(--font-size-21xl);
+}
+.signed-consent-letter-of-owner {
+  color: var(--color-black);
+}
+.if-not-registered {
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgray);
+}
+.filled-out-registration-form {
+  margin: 0;
+  font-family: inherit;
+  padding-left: 40px;
+}
+.filled-out-registration-container {
+  position: absolute;
+  top: 208px;
+  left: 36px;
+  line-height: 80px;
+  font-size: var(--font-size-11xl);
+}
+.add-ticket-button-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen);
+  width: 178px;
+  height: 57px;
+}
+.icround-plus-icon4 {
+  position: absolute;
+  top: 3px;
+  left: 6px;
+  width: 51px;
+  height: 51px;
+  overflow: hidden;
+}
+.upload {
+  position: absolute;
+  top: 15px;
+  left: 62px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 95px;
+  height: 26px;
+}
+.add-ticket-button4 {
+  position: absolute;
+  top: 152px;
+  left: 1318px;
+  width: 178px;
+  height: 57px;
+  font-size: var(--font-size-9xl-2);
+  color: var(--color-white);
+}
+.group-child14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 52.52px;
+  background-color: var(--color-seagreen);
+  width: 151px;
+  height: 37.4px;
+}
+.contact-gso {
+  position: absolute;
+  top: 9.2px;
+  left: 18.4px;
+  font-weight: 500;
+  display: inline-block;
+  width: 114.2px;
+  height: 19.7px;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 699px;
+  left: 54px;
+  width: 151px;
+  height: 37.4px;
+  font-size: var(--font-size-lg-9);
+  color: var(--color-white);
+}
+.tickets35 {
+  position: absolute;
+  top: 238px;
+  left: 287px;
+  width: 1581px;
+  height: 806px;
+}
+.student-pass-thru-parking-re {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+  font-family: var(--font-archivo);
+}

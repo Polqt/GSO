@@ -16,7 +16,7 @@
 </head>
 <body>
   <div class="login">
-    <main class="login1"></main>
+    <main class="singup1"></main>
     <div class="frame-parent">
       <div class="rectangle-parent" id="sign-in-button">
         <div id="sign-in" class="frame-child"></div>

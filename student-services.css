@@ -1,0 +1,388 @@
+.header-child30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon24 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child31 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.material-symbolsnotifications-icon22 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon24 {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.welcome-back-johnny18 {
+  position: absolute;
+  top: 126px;
+  left: 144px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 490.5px;
+  height: 61px;
+}
+.header17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+}
+.navigation-column-child30 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard24 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages17 {
+  top: 243px;
+  left: 50px;
+}
+.messages17,
+.notifications23,
+.services24 {
+  position: absolute;
+  font-weight: 500;
+}
+.services24 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 95px;
+}
+.notifications23 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.about-us2,
+.help-support2,
+.settings25 {
+  position: absolute;
+  top: 310px;
+  left: 50px;
+  font-weight: 500;
+}
+.help-support2,
+.settings25 {
+  top: 377px;
+}
+.settings25 {
+  top: 461px;
+}
+.navigation-column-child31 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.wrapper-rectangle-3-child17 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.417);
+}
+.wrapper-rectangle-319 {
+  position: absolute;
+  top: 103px;
+  left: 35px;
+  border-radius: 7.51px;
+  width: 127px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation-column16 {
+  position: absolute;
+  top: 216px;
+  left: -2px;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.pass-thru-parking-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 465px;
+  height: 720px;
+}
+.open-button-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 52.52px;
+  background-color: var(--color-seagreen);
+  width: 91px;
+  height: 37px;
+}
+.open3 {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 20px;
+}
+.open-button3 {
+  position: absolute;
+  top: 645px;
+  left: 32px;
+  width: 91px;
+  height: 37px;
+  text-align: center;
+}
+.lorem-ipsum-dolor50,
+.pass-thru2 {
+  position: absolute;
+  left: 32px;
+  font-weight: 500;
+  width: 387px;
+}
+.lorem-ipsum-dolor50 {
+  top: 527px;
+  font-size: var(--font-size-sm-1);
+  line-height: 20px;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  height: 79px;
+}
+.pass-thru2 {
+  top: 468px;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+  display: inline-block;
+  height: 53px;
+}
+.pass-thru-parking-child2,
+.pass-thru-parking-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  width: 465px;
+  height: 449px;
+}
+.pass-thru-parking-child2 {
+  background-color: var(--color-lightgray);
+}
+.pass-thru-parking-child3 {
+  object-fit: cover;
+}
+.pass-thru-parking1,
+.reservations-inner {
+  position: absolute;
+  top: 254px;
+  left: 344px;
+  width: 465px;
+  height: 720px;
+}
+.reservations-inner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+}
+.open-button-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 52.52px;
+  background-color: var(--color-seagreen);
+  width: 91px;
+  height: 37px;
+}
+.open4 {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 20px;
+}
+.open-button4 {
+  position: absolute;
+  top: 645px;
+  left: 39px;
+  width: 91px;
+  height: 37px;
+  text-align: center;
+}
+.lorem-ipsum-dolor51,
+.reservations5 {
+  position: absolute;
+  left: 39px;
+  font-weight: 500;
+  width: 387px;
+}
+.lorem-ipsum-dolor51 {
+  top: 527px;
+  font-size: var(--font-size-sm-1);
+  line-height: 20px;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  height: 79px;
+}
+.reservations5 {
+  top: 468px;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+  display: inline-block;
+  height: 53px;
+}
+.reservations-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  width: 465px;
+  height: 449px;
+  object-fit: cover;
+}
+.gate-pass-inner,
+.reservations4 {
+  position: absolute;
+  top: 254px;
+  left: 862px;
+  width: 465px;
+  height: 720px;
+}
+.gate-pass-inner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+}
+.open-button-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 52.52px;
+  background-color: var(--color-seagreen);
+  width: 91px;
+  height: 37px;
+}
+.open5 {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 20px;
+}
+.open-button5 {
+  position: absolute;
+  top: 645px;
+  left: 39px;
+  width: 91px;
+  height: 37px;
+  text-align: center;
+}
+.gate-pass5,
+.lorem-ipsum-dolor52 {
+  position: absolute;
+  left: 39px;
+  font-weight: 500;
+  width: 387px;
+}
+.lorem-ipsum-dolor52 {
+  top: 527px;
+  font-size: var(--font-size-sm-1);
+  line-height: 20px;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  height: 79px;
+}
+.gate-pass5 {
+  top: 468px;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+  display: inline-block;
+  height: 53px;
+}
+.gate-pass-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  width: 465px;
+  height: 449px;
+  object-fit: cover;
+}
+.gate-pass4 {
+  position: absolute;
+  top: 254px;
+  left: 1380px;
+  width: 465px;
+  height: 720px;
+}
+.student-services-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg-9);
+  color: var(--color-white);
+  font-family: var(--font-archivo);
+}

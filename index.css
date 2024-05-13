@@ -1,4 +1,3 @@
-
 * {
   font-family: var(--font-sf-pro);
 }
@@ -98,7 +97,6 @@ button {
   width: 400px;
   height: 85px;
 }
-
 
 button > svg {
   width: 34px;

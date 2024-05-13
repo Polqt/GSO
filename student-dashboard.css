@@ -1,0 +1,415 @@
+.header-child28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon23 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child29 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.material-symbolsnotifications-icon21 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon23 {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.welcome-back-johnny17 {
+  position: absolute;
+  top: 126px;
+  left: 144px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 490.5px;
+  height: 61px;
+}
+.header16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+}
+.navigation-column-child28 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard23 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages16 {
+  top: 243px;
+  left: 50px;
+}
+.messages16,
+.notifications22,
+.services23 {
+  position: absolute;
+  font-weight: 500;
+}
+.services23 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 95px;
+}
+.notifications22 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.about-us1,
+.help-support1,
+.settings24 {
+  position: absolute;
+  top: 310px;
+  left: 50px;
+  font-weight: 500;
+}
+.help-support1,
+.settings24 {
+  top: 377px;
+}
+.settings24 {
+  top: 461px;
+}
+.navigation-column-child29 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.navigation-column15 {
+  position: absolute;
+  top: 216px;
+  left: -1px;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.tickets-child38 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 14.87px;
+  background-color: var(--color-white);
+  border: 1.4px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 1581px;
+  height: 410px;
+}
+.facilities-reservation7 {
+  position: absolute;
+  top: 339px;
+  font-weight: 500;
+  display: inline-block;
+}
+.facilities-reservation7,
+.facilities-reservation8,
+.facilities-reservation9 {
+  left: 904px;
+  text-align: center;
+  width: 186px;
+  height: 17px;
+}
+.facilities-reservation8 {
+  position: absolute;
+  top: 251px;
+  font-weight: 500;
+  display: inline-block;
+}
+.facilities-reservation9 {
+  top: 163px;
+}
+.div121,
+.div122,
+.facilities-reservation9,
+.no8,
+.recent-requests1 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.recent-requests1 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+  width: 400.4px;
+  height: 54px;
+}
+.div121,
+.div122,
+.no8 {
+  top: 71.8px;
+  left: 0.2px;
+  width: 34.2px;
+  height: 17px;
+}
+.div121,
+.div122 {
+  top: 221px;
+  left: 0;
+  font-size: var(--font-size-3xl-7);
+  color: var(--color-silver);
+  width: 27px;
+  height: 20.9px;
+}
+.div122 {
+  top: 309px;
+}
+.april-04-202438 {
+  top: 222px;
+  left: 1289px;
+  color: var(--color-gray-100);
+  text-align: center;
+  width: 116px;
+}
+.april-04-202438,
+.april-04-202439,
+.date13,
+.description11,
+.status19 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+  height: 17px;
+}
+.april-04-202439 {
+  top: 310px;
+  left: 1289px;
+  color: var(--color-gray-100);
+  text-align: center;
+  width: 116px;
+}
+.date13,
+.description11,
+.status19 {
+  top: 72px;
+  left: 130px;
+  width: 110.5px;
+}
+.date13,
+.status19 {
+  top: 71.8px;
+  left: 1324px;
+  width: 45.6px;
+}
+.status19 {
+  left: 1110.8px;
+  width: 62.7px;
+}
+.recent-tickets-child2 {
+  position: absolute;
+  top: 218px;
+  left: 1098px;
+  border-radius: 50.29px;
+  background-color: var(--color-chocolate-100);
+  width: 87px;
+  height: 25.1px;
+}
+.pending9 {
+  position: absolute;
+  top: 222px;
+  left: 1112px;
+  font-size: var(--font-size-base-8);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.recent-tickets-child3 {
+  position: absolute;
+  top: 306px;
+  left: 1098px;
+  border-radius: 50.29px;
+  background-color: var(--color-darkblue);
+  width: 87px;
+  height: 25.1px;
+}
+.solved11,
+.type9 {
+  position: absolute;
+  font-weight: 500;
+}
+.solved11 {
+  top: 310px;
+  left: 1117px;
+  font-size: var(--font-size-base-8);
+  color: var(--color-white);
+}
+.type9 {
+  top: 72px;
+  left: 914px;
+  text-align: center;
+  display: inline-block;
+  width: 62.7px;
+  height: 17px;
+}
+.ticket-1-child25 {
+  position: absolute;
+  top: 0;
+  left: 1098px;
+  border-radius: 50.29px;
+  background-color: var(--color-yellowgreen-100);
+  width: 87px;
+  height: 25.1px;
+}
+.april-04-202440,
+.div123,
+.working8 {
+  position: absolute;
+  top: 4px;
+  left: 1112px;
+  font-weight: 500;
+}
+.april-04-202440,
+.div123 {
+  top: 3px;
+  left: 0;
+  font-size: var(--font-size-3xl-7);
+  color: var(--color-silver);
+  display: inline-block;
+  width: 27px;
+  height: 20.9px;
+}
+.april-04-202440 {
+  top: 4px;
+  left: 1289px;
+  font-size: var(--font-size-lg-5);
+  color: var(--color-gray-100);
+  text-align: center;
+  width: 116px;
+  height: 17px;
+}
+.ticket-114 {
+  position: absolute;
+  top: 130px;
+  left: 0;
+  width: 1405px;
+  height: 25.1px;
+  font-size: var(--font-size-base-8);
+  color: var(--color-black);
+}
+.recent-tickets10 {
+  position: absolute;
+  top: 29px;
+  left: 52px;
+  width: 1405px;
+  height: 331.1px;
+  color: var(--color-dimgray);
+}
+.lorem-ipsum-dolor47,
+.lorem-ipsum-dolor48,
+.lorem-ipsum-dolor49 {
+  position: absolute;
+  top: 160px;
+  left: 182px;
+  font-size: var(--font-size-sm-1);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 595px;
+  height: 38px;
+}
+.lorem-ipsum-dolor48,
+.lorem-ipsum-dolor49 {
+  top: 245px;
+}
+.lorem-ipsum-dolor49 {
+  top: 330px;
+}
+.tickets34 {
+  position: absolute;
+  top: 648px;
+  left: 290px;
+  width: 1581px;
+  height: 410px;
+  font-size: var(--font-size-lg-5);
+  color: var(--color-gray-100);
+}
+.announcements1 {
+  position: absolute;
+  top: 233px;
+  left: 295px;
+  font-weight: 500;
+  display: inline-block;
+  width: 400.4px;
+  height: 54px;
+}
+.student-page-landing-page-child,
+.student-page-landing-page-item {
+  position: absolute;
+  top: 292px;
+  left: 1096px;
+  border-radius: var(--br-mini);
+  width: 374px;
+  height: 334px;
+  object-fit: cover;
+}
+.student-page-landing-page-item {
+  top: 290px;
+}
+.student-page-landing-page-child1,
+.student-page-landing-page-child2,
+.student-page-landing-page-inner {
+  position: absolute;
+  top: 290px;
+  left: 1497px;
+  border-radius: var(--br-mini);
+  width: 374px;
+  height: 334px;
+  object-fit: cover;
+}
+.student-page-landing-page-child1,
+.student-page-landing-page-child2 {
+  left: 695px;
+}
+.student-page-landing-page-child2 {
+  left: 294px;
+}
+.student-page-landing-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+  font-family: var(--font-archivo);
+}

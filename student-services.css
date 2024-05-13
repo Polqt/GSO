@@ -386,3 +386,9 @@
   color: var(--color-white);
   font-family: var(--font-archivo);
 }
+
+
+.dashboard24:hover, .dashboard24:focus,
+.services24:hover, .services24:focus {
+  color: RGB(29, 185, 84);
+}

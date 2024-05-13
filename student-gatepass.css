@@ -357,3 +357,8 @@
   color: var(--color-dimgray);
   font-family: var(--font-archivo);
 }
+
+.dashboard27:hover, .dashboard27:focus,
+.services27:hover, .services27:focus {
+  color: RGB(29, 185, 84);
+}

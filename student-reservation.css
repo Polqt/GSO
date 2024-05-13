@@ -420,3 +420,8 @@
   color: var(--color-dimgray);
   font-family: var(--font-archivo);
 }
+
+.dashboard26:hover, .dashboard26:focus,
+.services26:hover, .services26:focus {
+  color: RGB(29, 185, 84);
+}

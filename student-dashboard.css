@@ -413,3 +413,8 @@
   color: var(--color-black);
   font-family: var(--font-archivo);
 }
+
+.dashboard23:hover, .dashboard23:focus,
+.services23:hover, .services23:focus {
+  color: RGB(29, 185, 84);
+}

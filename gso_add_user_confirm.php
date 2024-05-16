@@ -13,12 +13,11 @@ if (isset($_POST['submit'])) {
 
     $sql = "INSERT INTO student_acc (acctId, accttype, firstname, lastname, username, password, birthday) VALUES ('$AcctID','$AcctType','$FirstName', '$LastName', '$Username', '$Password', '$Birthday')";
     $q = mysqli_query($conn, $sql) or die(mysqli_error($conn));
+    
+    if ($q) {
+        echo "User added successfully.";
+    } else {
+        echo "Error adding user: " . mysqli_error($conn);
+    }
 }
 ?>
-
-<div class="wrapper">
-    <form method="post" action="gso_add_user.php">
-        <h3>New user added! Please inform the student or faculty that their account is ready.</h3>
-        <input type="submit" name="return" value="Return to Add User" id="btn" />
-    </form>
-</div>

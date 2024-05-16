@@ -25,10 +25,6 @@
   transition: background0.5s;
 }
 
-.select-clicked {
-  border: 2px #26489a solid;
-}
-
 select:hover {
   background: #323741;
 }
@@ -98,20 +94,21 @@ select:hover {
   color: #05060fc2;
 }
 
-.account-type,
+.accttype,
 .frame-child25{
   position: absolute;
   margin: 0 !important;
 }
 
-.account-type {
+.accttype {
   width: 132px;
   top: 188px;
   font-weight: 600;
   z-index: 3;
 }
-.account-type,
-.first-name,
+
+.accttype,
+.firstname,
 .personal-details {
   left: 67px;
   letter-spacing: 0.02em;
@@ -126,7 +123,7 @@ select:hover {
   z-index: 4;
 }
 
-.first-name {
+.firstname {
   width: 102px;
   top: 370px;
   z-index: 5;
@@ -152,9 +149,9 @@ select:hover {
   width: 272px;
 }
 
-.first-name,
+.firstname,
 .frame-child27,
-.last-name {
+.lastname{
   position: absolute;
   margin: 0 !important;
 }
@@ -166,7 +163,7 @@ select:hover {
   background-color: var(--color-gainsboro-100);
   z-index: 6;
 }
-.last-name {
+.lastname {
   width: 102px;
   top: 479px;
   left: 67px;
@@ -190,27 +187,27 @@ select:hover {
   left: calc(50% - 471.5px);
   z-index: 9;
 }
-.account-id1,
-.select-birthday {
+.acctid,
+.birthday {
   top: 588px;
   letter-spacing: 0.02em;
   display: inline-block;
 }
-.account-id1 {
+.acctid {
   width: 103px;
   position: absolute;
   margin: 0 !important;
   left: 67px;
   z-index: 10;
 }
-.select-birthday {
+.birthday {
   width: 141px;
   left: 422px;
   z-index: 11;
 }
 .contact-no,
 .frame-child30,
-.select-birthday {
+.birthday {
   position: absolute;
   margin: 0 !important;
 }
@@ -261,7 +258,7 @@ select:hover {
   z-index: 16;
 }
 .for-password-default,
-.password2 {
+.password {
   width: 91px;
   position: absolute;
   margin: 0 !important;
@@ -320,17 +317,61 @@ select:hover {
   width: 121px;
   height: 32px;
 }
-.submit2 {
-  position: absolute;
-  top: 845px;
-  left: 20px;
-  font-weight: 500;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 82px;
-  height: 20px;
-}
+
+  .cssbuttons-io-button {
+    background: var(--color-forestgreen);
+    color: white;
+    font-family: inherit;
+    padding: 0.35em;
+    padding-left: 1.2em;
+    font-size: 17px;
+    font-weight: 500;
+    border-radius: 0.9em;
+    border: none;
+    letter-spacing: 0.05em;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    height: 2.8em;
+    padding-right: 3.3em;
+    cursor: pointer;
+    position: absolute;
+    bottom: 15%;
+    left: calc(50% - 826.5px);
+  }
+  
+  .cssbuttons-io-button .icon {
+    background: white;
+    margin-left: 1em;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.2em;
+    width: 2.2em;
+    border-radius: 0.7em;
+    right: 0.3em;
+    transition: all 0.3s;
+  }
+  
+  .cssbuttons-io-button:hover .icon {
+    width: calc(100% - 0.6em);
+  }
+  
+  .cssbuttons-io-button .icon svg {
+    width: 1.1em;
+    transition: transform 0.3s;
+    color: var(--color-forestgreen);
+  }
+  
+  .cssbuttons-io-button:hover .icon svg {
+    transform: translateX(0.1em);
+  }
+  
+  .cssbuttons-io-button:active .icon {
+    transform: scale(0.95);
+  }
+  
 
 .open-button8 {
   position: absolute;

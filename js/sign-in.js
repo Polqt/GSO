@@ -10,7 +10,7 @@ dropdowns.forEach(dropdown => {
     const select = dropdown.querySelector('.select');
     const caret = dropdown.querySelector('.caret');
     const menu = dropdown.querySelector('.menu');
-    const options = dropdown.querySelector('.menu li');
+    const options = dropdown.querySelectorAll('.menu li'); 
     const selected = dropdown.querySelector('.selected');
  
     select.addEventListener('click', () => {
@@ -28,7 +28,24 @@ dropdowns.forEach(dropdown => {
             options.forEach(option => {
                 option.classList.remove('active');
             });
-            options.classList.add('active');
+            option.classList.add('active'); 
         });
+    });
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+    // Get the submit button element
+    const submitButton = document.querySelector(".cssbuttons-io-button");
+
+    // Add event listener for button click
+    submitButton.addEventListener("click", function (event) {
+      // Prevent default button click behavior
+      event.preventDefault();
+
+      // Simulate a 2-second loading delay
+      setTimeout(function () {
+        // Redirect to index.php after 2 seconds
+        window.location.href = "index.php";
+      }, 1000);
     });
 });

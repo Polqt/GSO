@@ -1,5 +1,23 @@
 <?php
+session_start();
+
+$conn = mysqli_connect("localhost", "root", "", "gso") or die(mysqli_error($conn));
+
+$username = $_POST['username'];
+$password = $_POST['password'];
+
+$sql = "SELECT * FROM student_acc WHERE Username ='$username' AND Password = '$password'";
+$qry = mysqli_query($conn, $sql) or die(mysqli_error($conn));
+
+if (mysqli_num_rows($qry) == 1) {
+    $row = mysqli_fetch_assoc($qry);
+    $_SESSION['ID'] = $row['AcctID'];
+    header("Location: admin-dashboard.html");
+} else {
+    header("Location: gso_login_error.php");
+}
 ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -20,7 +38,7 @@
     <div class="frame-parent">
       <div class="rectangle-parent" id="sign-in-button">
         <div id="sign-in" class="frame-child"></div>
-        <button class="sign-in-with" id="sign-in-with" type="submit">
+        <button class="sign-in-with" id="sign-in-with" type="submit" name="submit">
               <span>Sign in</span>
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 74 74" height="34" width="34">
                   <circle stroke-width="3" stroke="white" r="35.5" cy="37" cx="37"></circle>
@@ -29,7 +47,7 @@
           </button> 
       </div>
       
-      <form id="loginForm" action="gso_login_confirm.php" method="POST">
+      <form id="loginForm" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST">
       <div class="rectangle-group">
           <button class="continue" id="continue" type="submit">
               <span>Continue</span>

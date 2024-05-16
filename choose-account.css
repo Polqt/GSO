@@ -1,0 +1,177 @@
+.pass-thru-parking-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 705.8px;
+  height: 720px;
+}
+.open-button-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 52.52px;
+  background-color: var(--color-seagreen);
+  width: 138.1px;
+  height: 37px;
+}
+.select {
+  position: absolute;
+  top: 9px;
+  left: 28.8px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 78.9px;
+  height: 20px;
+}
+.open-button6 {
+  position: absolute;
+  top: 645px;
+  left: 48.6px;
+  width: 138.1px;
+  height: 37px;
+  text-align: center;
+}
+.gso-administrator,
+.lorem-ipsum-dolor53 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor53 {
+  top: 527px;
+  left: 49px;
+  font-size: var(--font-size-base);
+  line-height: 20px;
+  color: var(--color-gray-100);
+  width: 587px;
+  height: 97px;
+}
+.gso-administrator {
+  top: 468px;
+  left: 48.6px;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+  width: 587.4px;
+  height: 53px;
+}
+.pass-thru-parking-child5,
+.pass-thru-parking-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  width: 705.8px;
+  height: 449px;
+}
+.pass-thru-parking-child5 {
+  background-color: var(--color-lightgray);
+}
+.pass-thru-parking-child6 {
+  object-fit: cover;
+}
+.pass-thru-parking2,
+.reservations-child2 {
+  position: absolute;
+  top: 256px;
+  left: 214px;
+  width: 705.8px;
+  height: 720px;
+}
+.reservations-child2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+}
+.open-button-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 52.52px;
+  background-color: var(--color-seagreen);
+  width: 138.1px;
+  height: 37px;
+}
+.select1 {
+  position: absolute;
+  top: 9px;
+  left: 28.9px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 78.9px;
+  height: 20px;
+}
+.open-button7 {
+  position: absolute;
+  top: 645px;
+  left: 59.2px;
+  width: 138.1px;
+  height: 37px;
+  text-align: center;
+}
+.lorem-ipsum-dolor54,
+.student-faculty {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lorem-ipsum-dolor54 {
+  top: 527px;
+  left: 58.8px;
+  font-size: var(--font-size-base);
+  line-height: 20px;
+  color: var(--color-gray-100);
+  width: 588px;
+  height: 97px;
+}
+.student-faculty {
+  top: 468px;
+  left: 59.2px;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+  width: 587.4px;
+  height: 53px;
+}
+.reservations-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  width: 705.8px;
+  height: 449px;
+  object-fit: cover;
+}
+.reservations6 {
+  position: absolute;
+  top: 256px;
+  left: 1000.2px;
+  width: 705.8px;
+  height: 720px;
+}
+.choose-account-type1 {
+  position: absolute;
+  top: 112px;
+  left: 615px;
+  font-size: 63.5px;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.choose-account-type {
+  width: 100%;
+  position: relative;
+  height: 1080px;
+  background-image: url(./public/login@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-lg-9);
+  color: var(--color-white);
+  font-family: var(--font-archivo);
+}

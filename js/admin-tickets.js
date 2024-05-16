@@ -63,3 +63,27 @@ document.querySelector('.tablertrash-icon5').addEventListener('click', function(
         element.remove();
     });
 });
+
+document.addEventListener('DOMContentLoaded', function () {
+    const searchBox = document.querySelector('.search-bar-child3');
+
+    searchBox.addEventListener('input', function () {
+      const query = this.value.toLowerCase();
+      const tickets = document.querySelectorAll('.ticket-1, .ticket-2');
+
+      tickets.forEach(ticket => {
+        const no = ticket.querySelector('.div, .div2').innerText.toLowerCase();
+        const requestedBy = ticket.querySelector('.john-leonard-esperancilla, .ryan-giray').innerText.toLowerCase();
+        const description = ticket.querySelector('.lorem-ipsum-dolor, .lorem-ipsum-dolor1').innerText.toLowerCase();
+        const type = ticket.querySelector('.facilities-reservation, .facilities-reservation1').innerText.toLowerCase();
+        const status = ticket.querySelector('.working, .pending').innerText.toLowerCase();
+        const date = ticket.querySelector('.april-04-2024, .april-04-20241').innerText.toLowerCase();
+
+        if (no.includes(query) || requestedBy.includes(query) || description.includes(query) || type.includes(query) || status.includes(query) || date.includes(query)) {
+          ticket.style.display = 'block';
+        } else {
+          ticket.style.display = 'none';
+        }
+      });
+    });
+  });

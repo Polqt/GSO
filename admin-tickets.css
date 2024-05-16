@@ -999,22 +999,6 @@ input:not(:placeholder-shown) ~ .reset {
   height: 674.1px;
 }
 
-.search-bar1 {
-  position: absolute;
-  top: 1px;
-  left: 600px;
-  width: 230px;
-  height: 57px;
-}
-
-.search-bar3 {
-  position: absolute;
-  top: 0;
-  left: 300px;
-  width: 230px;
-  height: 57px;
-}
-
 .search-buttons {
   position: absolute;
   width: 760px; 

@@ -26,7 +26,7 @@
           </button> 
       </div>
       
-      <form id="loginForm" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST">
+      <form id="loginForm" action="gso_login_confirm.php" method="POST">
       <div class="rectangle-group">
           <button class="continue" id="continue" type="submit">
               <span>Continue</span>

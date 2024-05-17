@@ -479,6 +479,14 @@ input:not(:placeholder-shown) ~ .reset {
   width: 162px;
   height: 14.8px;
 }
+
+.ticket-2.list-group-item {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+
+
 .ticket-2,
 .ticket-2-item {
   position: absolute;

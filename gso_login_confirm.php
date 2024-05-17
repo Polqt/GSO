@@ -13,15 +13,21 @@ if ($qry) {
     if (mysqli_num_rows($qry) == 1) {
         session_start();
         $_SESSION['ID'] = $r['AcctID'];
-        echo $r['accttype'];  // Add this line to debug
-        if (!empty($_SESSION['ID'])) {
-            // Check the account type and redirect accordingly
-            if (strtolower($r['accttype']) == 'student') {
-                header("location:student-dashboard.html");
+        // Check if 'accttype' is set in the result array
+        if (isset($r['accttype'])) {
+            echo "Account type: " . $r['accttype'];  // Debugging info
+            if (!empty($_SESSION['ID'])) {
+                // Check the account type and redirect accordingly
+                if (strtolower($r['accttype']) == 'student') {
+                    header("location:student-dashboard.html");
+                } else {
+                    header("location:admin-dashboard.html");
+                }
             } else {
-                header("location:admin-dashboard.html");
+                header("location:gso_login_error.php");
             }
         } else {
+            echo "Account type not set in the database.";  // Debugging info
             header("location:gso_login_error.php");
         }
     } else {

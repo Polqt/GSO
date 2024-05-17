@@ -15,19 +15,21 @@
     <div class="sign-up">
       <div class="rectangle-parent15">
         
-        <div class="dropdown" name="accttype" id="acctid">
-          <div class="select" name="accttype" id="acctid">
+      <input type="hidden" name="accttype" id="hiddenAcctType">
+        <div class="dropdown" name="accttype" id="accttype">
+          <div class="select" name="accttype" id="accttype">
             <span class="selected" name="accttype">Account Type</span>
             <div class="caret"></div>
           </div>
           <ul class="menu">
-            <li class="active">Faculty</li>
-            <li>Student</li>
-          </ul>
-        </div>
+  <li class="active" onclick="updateAcctType('Faculty')">Faculty</li>
+  <li onclick="updateAcctType('Student')">Student</li>
+</ul>
+
+        </div>  
 
         <div class="frame-child25">
-          <input autocomplete="off" class="input" name="firstname" id="firstname">
+          <input autocomplete="off" class="input" name="firstname" id="firstname" required>
           <div></div></div>
           
         <div class="accttype">Account Type</div>
@@ -35,26 +37,26 @@
         <div class="firstname" name="firstname" id="firstname">First Name</div>
 
         <div class="frame-child27">
-          <input autocomplete="off" class="input" name="lastname" id="lastname">
+          <input autocomplete="off" class="input" name="lastname" id="lastname" required>
           <div></div></div>
 
         <div class="lastname" name="lastname" id="lastname">Last Name</div>
         <div class="frame-child28">
-          <input autocomplete="off" class="input" name="acctid" id="acctid">
+          <input autocomplete="off" class="input" name="acctid" id="acctid" required>
           <div></div></div>
           <div class="frame-child29">
-            <input autocomplete="off" class="input" name="birthday" id="birthday">
+            <input autocomplete="off" class="input" name="birthday" id="birthday" type="date" required>
             <div></div></div>
         <div class="acctid" name="acctid" id="acctid">Account ID</div>
         <div class="birthday" id="birthday" name="birthday">Birthday</div>
 
         <div class="frame-child31">
-          <input autocomplete="off" class="input" name="username" id="username">
+          <input autocomplete="off" class="input" name="username" id="username" required> 
           <div></div></div>
         <div class="username" name="username" id="username">Email</div>
 
         <div class="frame-child32">
-          <input autocomplete="off" class="input" name="password" id="password">
+          <input autocomplete="off" class="input" name="password" id="password" required>
           <div></div></div>
         <div class="password" name="password" id="password">Password</div>
         <i class="for-password-default"
@@ -65,7 +67,7 @@
 
         <img class="open-button-child6" alt="" src="./public/group-71.svg" />
 
-        <button type="submit" class="cssbuttons-io-button">
+        <button type="submit" class="cssbuttons-io-button" name="submit" id="submit">
           Submit
           <div class="icon">
             <svg

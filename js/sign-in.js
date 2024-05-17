@@ -33,19 +33,11 @@ dropdowns.forEach(dropdown => {
     });
 });
 
-document.addEventListener("DOMContentLoaded", function () {
-    // Get the submit button element
-    const submitButton = document.querySelector(".cssbuttons-io-button");
-
-    // Add event listener for button click
-    submitButton.addEventListener("click", function (event) {
-      // Prevent default button click behavior
-      event.preventDefault();
-
-      // Simulate a 2-second loading delay
-      setTimeout(function () {
-        // Redirect to index.php after 2 seconds
-        window.location.href = "index.php";
-      }, 1000);
-    });
-});
+function updateAcctType(acctType) {
+    // Get the hidden input field
+    var hiddenInput = document.getElementById('hiddenAcctType');
+  
+    // Update its value with the selected account type
+    hiddenInput.value = acctType;
+  }
+  

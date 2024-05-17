@@ -47,13 +47,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 
-document.addEventListener("DOMContentLoaded", function() {
-    const ticketsElement = document.querySelector(".john-leonard-esperancilla");
-    ticketsElement.addEventListener("click", function() {
-        window.location.href = "admin-.html"; 
-    });
-});
-
 function redirectToPHP() {
     window.location.href = 'index.php'; 
   }

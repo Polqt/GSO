@@ -1,24 +1,3 @@
-<?php
-session_start();
-
-$conn = mysqli_connect("localhost", "root", "", "gso") or die(mysqli_error($conn));
-
-$username = $_POST['username'];
-$password = $_POST['password'];
-
-$sql = "SELECT * FROM student_acc WHERE Username ='$username' AND Password = '$password'";
-$qry = mysqli_query($conn, $sql) or die(mysqli_error($conn));
-
-if (mysqli_num_rows($qry) == 1) {
-    $row = mysqli_fetch_assoc($qry);
-    $_SESSION['ID'] = $row['AcctID'];
-    header("Location: admin-dashboard.html");
-} else {
-    header("Location: gso_login_error.php");
-}
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

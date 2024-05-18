@@ -1,40 +1,38 @@
 <?php
+session_start();
 
-$conn = mysqli_connect("localhost", "root", "", "gso") or die(mysqli_error($conn));
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $conn = mysqli_connect("localhost", "root", "", "gso") or die(mysqli_error($conn));
 
-$username = $_POST['username'];
-$password = $_POST['password'];
 
-$sql = "select * from student_acc where Username ='$username' and Password = '$password'";
-$qry = mysqli_query($conn, $sql) or die(mysqli_error($conn));
-$r = mysqli_fetch_assoc($qry);
+    $username = mysqli_real_escape_string($conn, $_POST['username']);
+    $password = mysqli_real_escape_string($conn, $_POST['password']);
 
-if ($qry) {
-    if (mysqli_num_rows($qry) == 1) {
-        session_start();
-        $_SESSION['ID'] = $r['AcctID'];
-        // Check if 'accttype' is set in the result array
-        if (isset($r['accttype'])) {
-            echo "Account type: " . $r['accttype'];  // Debugging info
-            if (!empty($_SESSION['ID'])) {
-                // Check the account type and redirect accordingly
-                if (strtolower($r['accttype']) == 'student') {
-                    header("location:student-dashboard.html");
-                } else {
-                    header("location:admin-dashboard.html");
-                }
-            } else {
-                header("location:gso_login_error.php");
-            }
+    $sql = "SELECT * FROM student_acc WHERE Username ='$username' AND Password = '$password'";
+    $qry = mysqli_query($conn, $sql) or die(mysqli_error($conn));
+    $r = mysqli_fetch_assoc($qry);
+
+    print_r($r);
+
+    if ($qry) {
+        if (mysqli_num_rows($qry) == 1) {
+            $_SESSION['AcctID'] = $r['AcctID']; 
+            $_SESSION['AcctType'] = strtolower($r['AcctType']); 
+
+            if ($_SESSION['AcctType'] == 'student') {
+                header("location: student-dashboard.php");
+                exit(); 
+            } elseif ($_SESSION['AcctType'] == 'faculty') { 
+                header("location: admin-dashboard.php");
+                exit(); 
+            } 
         } else {
-            echo "Account type not set in the database.";  // Debugging info
-            header("location:gso_login_error.php");
+            header("location: gso_login_error.php");
+            exit(); 
         }
     } else {
-        header("location:gso_login_error.php");
+        header("location: index.php");
+        exit(); 
     }
-} else {
-    header("location:index.php");
-}
-
+}    
 ?>

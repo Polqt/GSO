@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
 document.addEventListener("DOMContentLoaded", function() {
     const ticketsElement = document.querySelector(".dashboard24");
     ticketsElement.addEventListener("click", function() {
-        window.location.href = "student-dashboard.html"; 
+        window.location.href = "student-dashboard.php"; 
     });
 });
 

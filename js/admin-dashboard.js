@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const ticketsElement = document.querySelector(".dashboard8");
     ticketsElement.addEventListener("click", function() {
-        window.location.href = "admin-dashboard.html"; 
+        window.location.href = "admin-dashboard.php"; 
     });
 });
 

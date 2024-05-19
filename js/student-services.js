@@ -32,3 +32,8 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "student-gatepass.html"; 
     });
 });
+
+document.getElementById("logout").addEventListener("click", redirectToPHP);
+function redirectToPHP() {
+    window.location.href = 'index.php';
+}

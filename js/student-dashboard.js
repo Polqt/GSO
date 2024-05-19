@@ -12,3 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 
+document.getElementById("logout").addEventListener("click", redirectToPHP);
+function redirectToPHP() {
+    window.location.href = 'index.php';
+}

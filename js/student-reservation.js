@@ -18,3 +18,8 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "student-services.html"; 
     });
 });
+
+document.getElementById("logout").addEventListener("click", redirectToPHP);
+function redirectToPHP() {
+    window.location.href = 'index.php';
+}

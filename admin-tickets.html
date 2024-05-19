@@ -3,14 +3,12 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="initial-scale=1, width=device-width" />
-
   <link rel="stylesheet" href="./global.css" />
   <link rel="stylesheet" href="./admin-tickets.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500&display=swap" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=SF Pro:wght@400;500;600;700&display=swap" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kanit:wght@400&display=swap" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=ABeeZee:wght@400&display=swap" />
-  
 </head>
 <body>
   <div class="tickets-page">
@@ -37,13 +35,13 @@
     </div>
     <div class="navigation-column">
       <div class="navigation-column-child"></div>
-      <div class="dashboard" style="cursor: pointer;">Dashboard</div>
-      <div class="messages"style="cursor: pointer;">Messages</div>
-      <div class="tickets"style="cursor: pointer;">Tickets</div>
-      <div class="notifications" style="cursor: pointer;">Notifications</div>
-      <div class="services" style="cursor: pointer;">Services</div>
-      <div class="files" style="cursor: pointer;">Files</div>
-      <div class="settings" style="cursor: pointer;">Settings</div>
+      <div class="dashboard" data-target="dashboard" style="cursor: pointer;">Dashboard</div>
+      <div class="messages" data-target="messages" style="cursor: pointer;">Messages</div>
+      <div class="tickets" data-target="tickets" style="cursor: pointer;">Tickets</div>
+      <div class="notifications" data-target="notifications" style="cursor: pointer;">Notifications</div>
+      <div class="services" data-target="services" style="cursor: pointer;">Services</div>
+      <div class="files" data-target="files" style="cursor: pointer;">Files</div>
+      <div class="settings" data-target="settings" style="cursor: pointer;">Settings</div>
       <img class="navigation-column-item" alt="" src="./public/line-13.svg" />
       <button onclick="redirectToPHP()" id="logout" class="logout">
         <div class="sign">

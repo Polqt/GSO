@@ -50,13 +50,13 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['AcctType'] != 'faculty'){
 
     <div class="navigation-column">
       <div class="navigation-column-child"></div>
-      <div class="dashboard8">Dashboard</div>
-      <div class="messages1">Messages</div>
-      <div class="tickets9">Tickets</div>
-      <div class="notifications7">Notifications</div>
-      <div class="services8">Services</div>
-      <div class="files7">Files</div>
-      <div class="settings8">Settings</div>
+      <div class="dashboard8" style="cursor: pointer;">Dashboard</div>
+      <div class="messages1" style="cursor: pointer;">Messages</div>
+      <div class="tickets9" style="cursor: pointer;">Tickets</div>
+      <div class="notifications7" style="cursor: pointer;">Notifications</div>
+      <div class="services8" style="cursor: pointer;">Services</div>
+      <div class="files7" style="cursor: pointer;">Files</div>
+      <div class="settings8" style="cursor: pointer;">Settings</div>
       <img class="navigation-column-item" alt="" src="./public/line-13.svg" />
       <button onclick="redirectToPHP()" id="logout" class="logout">
         <div class="sign">

@@ -1203,3 +1203,14 @@ input:not(:placeholder-shown) ~ .reset {
 .logout:active {
   transform: translate(2px, 2px);
 }
+
+
+.dashboard8:hover, .dashboard8:focus,
+.tickets9:hover, .tickets9:focus,
+.notifications7:hover, .notifications7:focus,
+.messages1:hover, .messages1:focus,
+.services8:hover, .services8:focus,
+.files7:hover, .files7:focus,
+.settings8:hover, .settings8:focus {
+  color: RGB(29, 185, 84);
+}

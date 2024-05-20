@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 document.addEventListener("DOMContentLoaded", function() {
-    const ticketsElement = document.querySelector(".wrapper-rectangle-314");
+    const ticketsElement = document.querySelector(".notifications17");
     ticketsElement.addEventListener("click", function() {
         window.location.href = "admin-notification.html"; 
     });

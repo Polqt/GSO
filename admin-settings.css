@@ -786,3 +786,13 @@ input:not(:placeholder-shown) ~ .reset {
 .logout:active {
   transform: translate(2px, 2px);
 }
+
+.dashboard10:hover, .dashboard10:focus,
+.tickets13:hover, .tickets13:focus,
+.notifications9:hover, .notifications9:focus,
+.messages3:hover, .messages3:focus,
+.services10:hover, .services10:focus,
+.files9:hover, .files9:focus,
+.settings10:hover, .settings10:focus {
+  color: RGB(29, 185, 84);
+}

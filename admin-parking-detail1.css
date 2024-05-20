@@ -492,3 +492,13 @@ input:not(:placeholder-shown) ~ .reset {
 .logout:active {
   transform: translate(2px, 2px);
 }
+
+.dashboard20:hover, .dashboard20:focus,
+.tickets29:hover, .tickets29:focus,
+.notifications19:hover, .notifications19:focus,
+.messages13:hover, .messages13:focus,
+.services20:hover, .services20:focus,
+.files20:hover, .files20:focus,
+.settings21:hover, .settings21:focus {
+  color: RGB(29, 185, 84);
+}

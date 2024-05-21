@@ -1,0 +1,275 @@
+.header-child46 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon32 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child47 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.material-symbolsnotifications-icon30 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon32 {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.welcome-back-johnny26 {
+  position: absolute;
+  top: 126px;
+  left: 144px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 490.5px;
+  height: 61px;
+}
+.header25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+}
+.navigation-column-child46 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard32 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages25 {
+  top: 243px;
+  left: 50px;
+}
+.messages25,
+.notifications31,
+.services32 {
+  position: absolute;
+  font-weight: 500;
+}
+.services32 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 95px;
+}
+.notifications31 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.about-us10,
+.help-support10,
+.settings33 {
+  position: absolute;
+  top: 310px;
+  left: 50px;
+  font-weight: 500;
+}
+.help-support10,
+.settings33 {
+  top: 377px;
+}
+.settings33 {
+  top: 461px;
+}
+.navigation-column-child47 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.navigation-column24 {
+  position: absolute;
+  top: 216px;
+  left: 0;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.student-about-us-child {
+  position: absolute;
+  top: 245px;
+  left: 287px;
+  border-radius: 14.87px;
+  background-color: var(--color-white);
+  border: 1.4px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 1581px;
+  height: 806px;
+}
+.faith {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-archivo);
+}
+.usls-commits-to {
+  font-weight: 500;
+}
+.faith-usls-commits-to-form-rol {
+  margin: 0;
+}
+.blank-line {
+  margin: 0;
+  font-weight: 500;
+}
+.service {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-archivo);
+}
+.usls-commits-to1 {
+  font-weight: 500;
+}
+.service-usls-commits-to-nurtur {
+  margin: 0;
+}
+.blank-line1 {
+  margin: 0;
+  font-weight: 500;
+}
+.communion-in-mission {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.usls-creates-a {
+  margin: 0;
+  font-weight: 500;
+}
+.faith-usls-commits-to-container1 {
+  width: 100%;
+}
+.faith-usls-commits-to-container {
+  position: absolute;
+  top: 751px;
+  left: 1203px;
+  line-height: 20px;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  width: 608px;
+  height: 179px;
+  font-size: var(--font-size-sm-1);
+}
+.mission {
+  position: absolute;
+  top: 698px;
+  left: 1203px;
+  font-weight: 500;
+  display: inline-block;
+  width: 608px;
+  height: 53px;
+}
+.university-of-st1 {
+  top: 751px;
+  font-size: var(--font-size-sm-1);
+  line-height: 20px;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+}
+.about-us11,
+.mission1,
+.university-of-st1,
+.university-of-st2,
+.vision {
+  position: absolute;
+  left: 328px;
+  font-weight: 500;
+  width: 608px;
+  height: 53px;
+}
+.university-of-st2 {
+  top: 892px;
+  font-size: var(--font-size-sm-1);
+  line-height: 20px;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+}
+.about-us11,
+.mission1,
+.vision {
+  top: 698px;
+  display: inline-block;
+}
+.about-us11,
+.mission1 {
+  top: 839px;
+}
+.about-us11 {
+  top: 283px;
+  width: 708px;
+}
+.student-about-us-item {
+  position: absolute;
+  top: 355px;
+  left: 287px;
+  max-height: 100%;
+  width: 1581px;
+}
+.vision-mission-core-1-icon {
+  position: absolute;
+  top: 355px;
+  left: 287px;
+  width: 1581px;
+  height: 308px;
+  object-fit: cover;
+}
+.student-about-us-inner {
+  position: absolute;
+  height: 4.79%;
+  width: 2.69%;
+  top: 26.2%;
+  right: 4.34%;
+  bottom: 69.01%;
+  left: 92.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.student-about-us {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-23xl-4);
+  color: var(--color-black);
+  font-family: var(--font-archivo);
+}

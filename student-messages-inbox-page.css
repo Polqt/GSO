@@ -1,0 +1,435 @@
+.header-child44 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon31 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child45 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.search-bar-child66,
+.search-bar-child67 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  width: 622px;
+  height: 58px;
+}
+.search-bar-child67 {
+  left: 560px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-darkslategray-200);
+  width: 62px;
+}
+.search-command18 {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+  font-weight: 500;
+}
+.material-symbolssearch-icon25 {
+  position: absolute;
+  top: 12px;
+  left: 574px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.search-bar46 {
+  position: absolute;
+  top: 126px;
+  left: 1150px;
+  width: 622px;
+  height: 58px;
+}
+.material-symbolsnotifications-icon29 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon31 {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.welcome-back-johnny25 {
+  position: absolute;
+  top: 126px;
+  left: 144px;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 490.5px;
+  height: 61px;
+}
+.header24,
+.notifciation-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+}
+.notifciation-child1 {
+  border-radius: 14.87px;
+  background-color: var(--color-white);
+  border: 1.4px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 1581px;
+  height: 806px;
+}
+.all-messages1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 400.4px;
+  height: 53.2px;
+}
+.ticket-1-child30 {
+  position: absolute;
+  top: 8px;
+  left: 1116px;
+  border-radius: 43.81px;
+  background-color: var(--color-yellowgreen-100);
+  width: 75.8px;
+  height: 21.6px;
+}
+.lorem-ipsum-dolor57,
+.read8 {
+  position: absolute;
+  font-weight: 500;
+}
+.read8 {
+  top: 11.4px;
+  left: 1128.2px;
+  font-size: var(--font-size-sm-7);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 51.4px;
+  height: 14.6px;
+}
+.lorem-ipsum-dolor57 {
+  top: 0;
+  left: 389px;
+  font-size: var(--font-size-sm-1);
+  display: flex;
+  align-items: center;
+  width: 595px;
+  height: 38px;
+}
+.april-04-202445,
+.gso-admin3,
+.john-leonard-esperancilla22 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+  height: 14.6px;
+}
+.april-04-202445 {
+  top: 12px;
+  left: 1276px;
+  text-align: center;
+  width: 101.1px;
+}
+.gso-admin3,
+.john-leonard-esperancilla22 {
+  left: 57.5px;
+}
+.gso-admin3 {
+  top: 23.7px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.john-leonard-esperancilla22 {
+  top: 4px;
+  width: 196.9px;
+}
+.ticket-1-child31 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  border-radius: 4.36px;
+  width: 45.3px;
+  height: 38.6px;
+  object-fit: cover;
+}
+.april-04-202446,
+.ticket-117 {
+  position: absolute;
+  top: 182px;
+  left: 0;
+  width: 1377.1px;
+  height: 42.6px;
+}
+.april-04-202446 {
+  top: 10px;
+  left: 1276px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 101.1px;
+  height: 14.6px;
+}
+.lorem-ipsum-dolor58 {
+  position: absolute;
+  top: 0;
+  left: 389px;
+  font-size: var(--font-size-sm-1);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 641px;
+  height: 37px;
+}
+.ticket-2-child18 {
+  position: absolute;
+  top: 6px;
+  left: 1116px;
+  border-radius: 43.81px;
+  background-color: var(--color-darkslategray-300);
+  width: 75.8px;
+  height: 21.6px;
+}
+.ryan-giray9,
+.security-guard,
+.undread3 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.undread3 {
+  top: 9.5px;
+  left: 1125.4px;
+  font-size: var(--font-size-sm-7);
+  color: var(--color-white);
+  text-align: center;
+  width: 56px;
+  height: 15px;
+}
+.ryan-giray9,
+.security-guard {
+  left: 57.5px;
+  height: 14.6px;
+}
+.security-guard {
+  top: 26.3px;
+  color: var(--color-silver);
+  width: 115.1px;
+}
+.ryan-giray9 {
+  top: 6.6px;
+  width: 196.9px;
+}
+.ticket-2-child19 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  border-radius: 4.36px;
+  width: 45.3px;
+  height: 38.6px;
+  object-fit: cover;
+}
+.recent-tickets12,
+.ticket-211 {
+  position: absolute;
+  top: 259px;
+  left: 0;
+  width: 1377.1px;
+  height: 42.6px;
+}
+.recent-tickets12 {
+  top: 33px;
+  left: 44px;
+  height: 301.6px;
+  color: var(--color-gray-100);
+}
+.search-bar-child68 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-gainsboro-100);
+  width: 415px;
+  height: 57px;
+}
+.select-by-sender3 {
+  position: absolute;
+  top: 21px;
+  left: 15px;
+  font-weight: 500;
+  display: inline-block;
+  width: 167px;
+}
+.search-bar47,
+.search-buttons7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 415px;
+  height: 57px;
+}
+.search-buttons7 {
+  top: 93px;
+  left: 44px;
+  font-size: var(--font-size-smi-5);
+}
+.date17,
+.message-preview3,
+.sent-by6,
+.status22 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 132.1px;
+  height: 17px;
+}
+.date17,
+.message-preview3,
+.status22 {
+  top: 0;
+  left: 389px;
+  width: 180px;
+}
+.date17,
+.status22 {
+  top: 1px;
+  left: 1304px;
+  text-align: center;
+  width: 45.6px;
+}
+.status22 {
+  left: 1122.6px;
+  width: 62.7px;
+}
+.notifciation3,
+.notificatio-header3 {
+  position: absolute;
+  top: 171px;
+  left: 44px;
+  width: 1349.6px;
+  height: 18px;
+}
+.notifciation3 {
+  top: 232px;
+  left: 295px;
+  width: 1581px;
+  height: 806px;
+  font-size: var(--font-size-base-1);
+}
+.down-button-icon8 {
+  position: absolute;
+  top: 977px;
+  left: 1058px;
+  width: 37px;
+  height: 37px;
+}
+.navigation-column-child44 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard31 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages24 {
+  top: 243px;
+  left: 50px;
+}
+.messages24,
+.notifications30,
+.services31 {
+  position: absolute;
+  font-weight: 500;
+}
+.services31 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 95px;
+}
+.notifications30 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.about-us9,
+.help-support9,
+.settings32 {
+  position: absolute;
+  top: 310px;
+  left: 50px;
+  font-weight: 500;
+}
+.help-support9,
+.settings32 {
+  top: 377px;
+}
+.settings32 {
+  top: 461px;
+}
+.navigation-column-child45 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.navigation-column23 {
+  position: absolute;
+  top: 216px;
+  left: -2px;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+}
+.student-messages-inbox-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl-9);
+  color: var(--color-dimgray);
+  font-family: var(--font-archivo);
+}

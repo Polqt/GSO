@@ -1,0 +1,352 @@
+.header-child42 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon30 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child43 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.search-bar-child64,
+.search-bar-child65 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  width: 622px;
+  height: 58px;
+}
+.search-bar-child65 {
+  left: 560px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-darkslategray-200);
+  width: 62px;
+}
+.search-command17 {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+  font-weight: 500;
+}
+.material-symbolssearch-icon24 {
+  position: absolute;
+  top: 12px;
+  left: 574px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.search-bar45 {
+  position: absolute;
+  top: 126px;
+  left: 1150px;
+  width: 622px;
+  height: 58px;
+}
+.material-symbolsnotifications-icon28 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.mask-group-icon30 {
+  position: absolute;
+  top: 125px;
+  left: 46px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.welcome-back-johnny24 {
+  position: absolute;
+  top: 126px;
+  left: 144px;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 490.5px;
+  height: 61px;
+}
+.header23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+  font-size: var(--font-size-xl-9);
+}
+.down-button-icon7,
+.reply-box-icon {
+  position: absolute;
+  top: 977px;
+  left: 1058px;
+  width: 37px;
+  height: 37px;
+}
+.reply-box-icon {
+  top: 923px;
+  left: 315px;
+  width: 1523px;
+  height: 91px;
+}
+.ticket-1-child28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 13.25px;
+  background-color: var(--color-white);
+  width: 1242px;
+  height: 183px;
+}
+.div124 {
+  position: absolute;
+  top: 79px;
+  left: 1013.4px;
+  font-weight: 500;
+  color: var(--color-silver);
+  display: inline-block;
+  width: 92.1px;
+  height: 11.8px;
+}
+.john-leonard-esperancilla21 {
+  top: 61.4px;
+  left: 948px;
+  font-weight: 500;
+  width: 157.4px;
+  height: 11.8px;
+}
+.april-04-202444,
+.john-leonard-esperancilla21,
+.on-april-259 {
+  position: absolute;
+  display: inline-block;
+}
+.on-april-259 {
+  top: 16px;
+  left: 56px;
+  font-size: var(--font-size-base-6);
+  letter-spacing: 0.05em;
+  line-height: 28.98px;
+  color: var(--color-dimgray);
+  text-align: left;
+  width: 843px;
+  height: 155px;
+}
+.april-04-202444 {
+  top: 96px;
+  left: 1013.4px;
+  font-weight: 500;
+  width: 92.1px;
+  height: 13.4px;
+}
+.ticket-1-child29 {
+  position: absolute;
+  top: 54px;
+  left: 1122px;
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+}
+.ticket-116 {
+  position: absolute;
+  top: 254px;
+  left: 551px;
+  width: 1242px;
+  height: 183px;
+  text-align: right;
+  color: var(--color-gray-100);
+}
+.student-messages-exchange-page-child {
+  position: absolute;
+  height: 4.79%;
+  width: 2.69%;
+  top: 26.02%;
+  right: 2.93%;
+  bottom: 69.19%;
+  left: 94.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ticket-2-child16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 13.25px;
+  background-color: var(--color-white);
+  width: 579px;
+  height: 102px;
+}
+.this-is-acknowledged1 {
+  position: absolute;
+  top: 37px;
+  left: 266px;
+  font-size: var(--font-size-base-6);
+  letter-spacing: 0.05em;
+  line-height: 28.98px;
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 313.1px;
+  height: 29px;
+}
+.johnny-gonzales {
+  position: absolute;
+  top: 27px;
+  left: 129px;
+  font-weight: 500;
+  text-align: right;
+}
+.april-06-20241,
+.gso-admin2 {
+  position: absolute;
+  left: 129px;
+  font-weight: 500;
+  display: inline-block;
+}
+.gso-admin2 {
+  top: 44px;
+  color: var(--color-silver);
+  width: 86px;
+  height: 17px;
+}
+.april-06-20241 {
+  top: 61px;
+  width: 92.1px;
+  height: 13.4px;
+}
+.ticket-2-child17 {
+  position: absolute;
+  top: 14px;
+  left: 33px;
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+}
+.ticket-210 {
+  position: absolute;
+  top: 475px;
+  left: 317px;
+  width: 579.1px;
+  height: 102px;
+  color: var(--color-gray-100);
+}
+.navigation-column-child42 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard30 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages23 {
+  top: 243px;
+  left: 50px;
+}
+.messages23,
+.notifications29,
+.services30 {
+  position: absolute;
+  font-weight: 500;
+}
+.services30 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 95px;
+}
+.notifications29 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.about-us8,
+.help-support8,
+.settings31 {
+  position: absolute;
+  top: 310px;
+  left: 50px;
+  font-weight: 500;
+}
+.help-support8,
+.settings31 {
+  top: 377px;
+}
+.settings31 {
+  top: 461px;
+}
+.navigation-column-child43 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.wrapper-rectangle-3-child23 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.417);
+}
+.wrapper-rectangle-325 {
+  position: absolute;
+  top: 237px;
+  left: 35px;
+  border-radius: 7.51px;
+  width: 140px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation-column22 {
+  position: absolute;
+  top: 216px;
+  left: -2px;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+}
+.student-messages-exchange-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi-9);
+  color: var(--color-dimgray);
+  font-family: var(--font-archivo);
+}

@@ -1,0 +1,601 @@
+.header-child50 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-seagreen-100);
+  width: 1920px;
+  height: 97px;
+}
+.logo-1-icon34 {
+  position: absolute;
+  top: 14px;
+  left: 871px;
+  width: 177.8px;
+  height: 68.4px;
+  object-fit: cover;
+}
+.header-child51 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 121px;
+}
+.material-symbolsnotifications-icon32 {
+  position: absolute;
+  top: 136px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.header27,
+.settings-column-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+}
+.settings-column-child2 {
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 283px;
+  height: 819px;
+}
+.access1,
+.notification1 {
+  position: absolute;
+  top: 146px;
+  left: 52px;
+  font-weight: 500;
+}
+.access1 {
+  top: 384px;
+}
+.language1,
+.password3,
+.preferences1,
+.sessions1 {
+  position: absolute;
+  top: 188px;
+  left: 52px;
+  font-weight: 500;
+}
+.language1,
+.password3,
+.sessions1 {
+  top: 426px;
+}
+.language1,
+.password3 {
+  top: 104px;
+}
+.password3 {
+  top: 342px;
+}
+.settings-column-child3,
+.settings-column-child4 {
+  position: absolute;
+  top: 235px;
+  left: 0;
+  max-height: 100%;
+  width: 283px;
+}
+.settings-column-child4 {
+  top: 479px;
+}
+.profile1,
+.security1 {
+  position: absolute;
+  top: 23px;
+  left: 16px;
+  font-weight: 500;
+  color: var(--color-dimgray);
+}
+.security1 {
+  top: 261px;
+}
+.edit-profile2,
+.email3 {
+  position: absolute;
+  top: 63px;
+  left: 52px;
+  font-weight: 500;
+}
+.email3 {
+  top: 301px;
+}
+.carbonnotification-icon1,
+.ggprofile-icon1,
+.icbaseline-language-icon1 {
+  position: absolute;
+  top: 59px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.carbonnotification-icon1,
+.icbaseline-language-icon1 {
+  top: 101px;
+}
+.carbonnotification-icon1 {
+  top: 143px;
+}
+.icoutline-email-icon1,
+.pajamaspreferences-icon1,
+.wpfkey-security-icon1 {
+  position: absolute;
+  top: 185px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icoutline-email-icon1,
+.wpfkey-security-icon1 {
+  top: 297px;
+}
+.wpfkey-security-icon1 {
+  top: 336px;
+  left: 17px;
+}
+.material-symbolsactivity-zone-icon1,
+.tablerlock-access-icon1 {
+  position: absolute;
+  top: 380px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.material-symbolsactivity-zone-icon1 {
+  top: 422px;
+}
+.settings-column-child5 {
+  position: absolute;
+  top: 55px;
+  left: 10px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-400);
+  border: 2px solid var(--color-forestgreen);
+  box-sizing: border-box;
+  width: 256px;
+  height: 33px;
+}
+.settings-column1 {
+  position: absolute;
+  top: 237px;
+  left: 291px;
+  width: 283px;
+  height: 819px;
+}
+.edit-profile-settings-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 855px;
+  height: 738px;
+}
+.student-info-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 13.24px;
+  border: 1.8px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 757px;
+  height: 152px;
+}
+.address2,
+.university-of-st3 {
+  position: absolute;
+  left: 29px;
+  font-weight: 500;
+}
+.address2 {
+  top: 75px;
+  color: var(--color-dimgray);
+}
+.university-of-st3 {
+  top: 103px;
+}
+.account-id2,
+.date-created1,
+.div125 {
+  position: absolute;
+  left: 353px;
+  font-weight: 500;
+}
+.account-id2 {
+  top: 76px;
+  color: var(--color-dimgray);
+}
+.date-created1,
+.div125 {
+  top: 103px;
+}
+.date-created1 {
+  top: 76px;
+  left: 473px;
+  color: var(--color-dimgray);
+}
+.april-24-20241,
+.student-info3 {
+  position: absolute;
+  top: 103px;
+  left: 473px;
+  font-weight: 500;
+}
+.student-info3 {
+  top: 20px;
+  left: 29px;
+  font-size: var(--font-size-5xl);
+}
+.student-info2 {
+  position: absolute;
+  top: 517px;
+  left: 39px;
+  width: 757px;
+  height: 152px;
+}
+.full-name1,
+.johnny-franz-esperanolla1 {
+  position: absolute;
+  left: 29px;
+  font-weight: 500;
+}
+.full-name1 {
+  top: 82px;
+  color: var(--color-dimgray);
+}
+.johnny-franz-esperanolla1 {
+  top: 110px;
+}
+.email4,
+.s2120770uslseduph1 {
+  position: absolute;
+  left: 243px;
+  font-weight: 500;
+}
+.email4 {
+  top: 82px;
+  color: var(--color-dimgray);
+}
+.s2120770uslseduph1 {
+  top: 110px;
+}
+.phone1 {
+  top: 82px;
+  left: 443px;
+  color: var(--color-dimgray);
+}
+.div126,
+.gso-admin4,
+.phone1,
+.type12 {
+  position: absolute;
+  font-weight: 500;
+}
+.div126 {
+  top: 110px;
+  left: 443px;
+}
+.gso-admin4,
+.type12 {
+  left: 624px;
+}
+.type12 {
+  top: 82px;
+  color: var(--color-dimgray);
+}
+.gso-admin4 {
+  top: 110px;
+}
+.personal-info-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 13.24px;
+  background-color: var(--color-gray-400);
+  border: 1.8px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 757px;
+  height: 164px;
+}
+.personal-info3 {
+  position: absolute;
+  top: 27px;
+  left: 29px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.personal-info2 {
+  position: absolute;
+  top: 316px;
+  left: 39px;
+  width: 757px;
+  height: 164px;
+}
+.edit-profile-settings-child1 {
+  position: absolute;
+  top: 279px;
+  left: 0;
+  max-height: 100%;
+  width: 855px;
+}
+.at-least-8001 {
+  margin: 0;
+}
+.jpg-or1 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.at-least-800-container1 {
+  position: absolute;
+  top: 138px;
+  left: 231px;
+  font-weight: 500;
+}
+.profile-picture-item {
+  position: absolute;
+  top: 66px;
+  left: 229px;
+  border-radius: 13.24px;
+  background-color: var(--color-gray-400);
+  border: 1.8px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 226px;
+  height: 54.7px;
+}
+.upload-new-photo1 {
+  position: absolute;
+  top: 80px;
+  left: 244px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-gray-100);
+  text-align: center;
+}
+.mask-group-icon34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.profile-picture1 {
+  position: absolute;
+  top: 32px;
+  left: 39px;
+  width: 458px;
+  height: 200px;
+  color: var(--color-dimgray);
+}
+.edit-profile-settings1,
+.edit-profile3 {
+  position: absolute;
+  top: 318px;
+  left: 596px;
+  width: 855px;
+  height: 738px;
+  font-size: var(--font-size-sm-9);
+}
+.edit-profile3 {
+  top: 255px;
+  left: 602px;
+  font-size: var(--font-size-23xl-4);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 437px;
+  height: 53px;
+}
+.complete-profile-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 380px;
+  height: 819px;
+}
+.add-profile-picture1,
+.complete-your-profile1 {
+  position: absolute;
+  top: 401px;
+  left: 129px;
+  font-weight: 500;
+}
+.complete-your-profile1 {
+  top: 41px;
+  left: 74px;
+  font-size: var(--font-size-5xl);
+  text-align: center;
+}
+.untitled-design-2-11 {
+  position: absolute;
+  top: 79px;
+  left: 15px;
+  width: 350px;
+  height: 309px;
+  object-fit: cover;
+}
+.b1 {
+  position: absolute;
+  top: 220px;
+  left: 162px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-dimgray);
+}
+.bicheck-icon5 {
+  position: absolute;
+  top: 388px;
+  left: 78px;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+}
+.add-full-name1 {
+  position: absolute;
+  top: 463px;
+  left: 129px;
+  font-weight: 500;
+}
+.bicheck-icon6 {
+  position: absolute;
+  top: 450px;
+  left: 78px;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+}
+.add-email1 {
+  position: absolute;
+  top: 525px;
+  left: 129px;
+  font-weight: 500;
+}
+.bicheck-icon7 {
+  position: absolute;
+  top: 512px;
+  left: 78px;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+}
+.add-phone-number1 {
+  position: absolute;
+  top: 587px;
+  left: 129px;
+  font-weight: 500;
+}
+.bicheck-icon8 {
+  position: absolute;
+  top: 574px;
+  left: 78px;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+}
+.select-account-type1 {
+  position: absolute;
+  top: 649px;
+  left: 129px;
+  font-weight: 500;
+}
+.bicheck-icon9 {
+  position: absolute;
+  top: 636px;
+  left: 78px;
+  width: 43px;
+  height: 43px;
+  overflow: hidden;
+}
+.verify-account1 {
+  position: absolute;
+  top: 711px;
+  left: 131px;
+  font-weight: 500;
+  color: var(--color-silver);
+}
+.phx-bold-icon1 {
+  position: absolute;
+  top: 706px;
+  left: 85px;
+  width: 29px;
+  height: 29px;
+  overflow: hidden;
+}
+.complete-profile1 {
+  position: absolute;
+  top: 237px;
+  left: 1486px;
+  width: 380px;
+  height: 819px;
+  font-size: var(--font-size-mid);
+}
+.navigation-column-child50 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 864px;
+}
+.dashboard34 {
+  position: absolute;
+  top: 41px;
+  left: 50px;
+  font-weight: 500;
+}
+.messages27 {
+  top: 243px;
+  left: 50px;
+}
+.messages27,
+.notifications33,
+.services34 {
+  position: absolute;
+  font-weight: 500;
+}
+.services34 {
+  top: 108px;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  width: 95px;
+}
+.notifications33 {
+  top: 176px;
+  left: calc(50% - 82px);
+}
+.about-us13,
+.help-support13,
+.settings35 {
+  position: absolute;
+  top: 310px;
+  left: 50px;
+  font-weight: 500;
+}
+.help-support13,
+.settings35 {
+  top: 377px;
+}
+.settings35 {
+  top: 461px;
+}
+.navigation-column-child51 {
+  position: absolute;
+  top: 432px;
+  left: 0;
+  max-height: 100%;
+  width: 263px;
+}
+.navigation-column26 {
+  position: absolute;
+  top: 216px;
+  left: 0;
+  width: 264px;
+  height: 864px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.student-settings {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base-5);
+  color: var(--color-gray-100);
+  font-family: var(--font-archivo);
+}

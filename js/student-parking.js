@@ -19,6 +19,42 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 
+
+document.addEventListener("DOMContentLoaded", function() {
+    const ticketsElement = document.querySelector(".notifications24");
+    ticketsElement.addEventListener("click", function() {
+        window.location.href = "student-notifications-page.html"; 
+    });
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    const ticketsElement = document.querySelector(".messages18");
+    ticketsElement.addEventListener("click", function() {
+        window.location.href = "student-messages-inbox-page.html"; 
+    });
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    const ticketsElement = document.querySelector(".about-us3");
+    ticketsElement.addEventListener("click", function() {
+        window.location.href = "student-about-us.html"; 
+    });
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    const ticketsElement = document.querySelector(".help-support3");
+    ticketsElement.addEventListener("click", function() {
+        window.location.href = "student-help-support.html"; 
+    });
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    const ticketsElement = document.querySelector(".settings26");
+    ticketsElement.addEventListener("click", function() {
+        window.location.href = "student-settings.html"; 
+    });
+});
+
 const addButton = document.querySelector('.add-ticket-button4');
 const fileInput = document.getElementById('fileInput');
 

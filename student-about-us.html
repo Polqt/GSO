@@ -46,18 +46,28 @@
       </div>
       <div class="navigation-column24">
         <div class="navigation-column-child46"></div>
-        <div class="dashboard32">Dashboard</div>
-        <div class="messages25">Messages</div>
-        <div class="services32">Services</div>
-        <div class="notifications31">Notifications</div>
-        <div class="about-us10">About Us</div>
-        <div class="help-support10">Help & Support</div>
-        <div class="settings33">Settings</div>
+        <div class="dashboard32" style="cursor: pointer;">Dashboard</div>
+        <div class="messages25" style="cursor: pointer;">Messages</div>
+        <div class="services32" style="cursor: pointer;">Services</div>
+        <div class="notifications31" style="cursor: pointer;">Notifications</div>
+        <div class="about-us10" style="cursor: pointer;">About Us</div>
+        <div class="help-support10" style="cursor: pointer;">Help & Support</div>
+        <div class="settings33" style="cursor: pointer;">Settings</div>
         <img
           class="navigation-column-child47"
           alt=""
           src="./public/line-13.svg"
         />
+        <button onclick="redirectToPHP()" id="logout" class="logout">
+          <div class="sign">
+            <svg viewBox="0 0 512 512">
+              <path
+                d="M377.9 105.9L500.7 228.7c7.2 7.2 11.3 17.1 11.3 27.3s-4.1 20.1-11.3 27.3L377.9 406.1c-6.4 6.4-15 9.9-24 9.9c-18.7 0-33.9-15.2-33.9-33.9l0-62.1-128 0c-17.7 0-32-14.3-32-32l0-64c0-17.7 14.3-32 32-32l128 0 0-62.1c0-18.7 15.2-33.9 33.9-33.9c9 0 17.6 3.6 24 9.9zM160 96L96 96c-17.7 0-32 14.3-32 32l0 256c0 17.7 14.3 32 32 32l64 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-64 0c-53 0-96-43-96-96L0 128C0 75 43 32 96 32l64 0c17.7 0 32 14.3 32 32s-14.3 32-32 32z"
+              ></path>
+            </svg>
+          </div>
+          <div class="text">Logout</div>
+        </button>
       </div>
       <div class="student-about-us-child"></div>
       <div class="faith-usls-commits-to-container">
@@ -65,7 +75,7 @@
           <p class="faith-usls-commits-to-form-rol">
             <b class="faith">FAITH</b>
             <span class="usls-commits-to"
-              > USLS Commits to form role models, who live with faith in GOD and
+              >USLS Commits to form role models, who live with faith in GOD and
               with deep respect to one’s self and others.</span
             >
           </p>
@@ -73,7 +83,7 @@
           <p class="service-usls-commits-to-nurtur">
             <b class="service">SERVICE</b>
             <span class="usls-commits-to1"
-              > USLS commits to nurture volunteerism and service moved by
+              >USLS commits to nurture volunteerism and service moved by
               genuine concern and love for the poor.</span
             >
           </p>
@@ -113,5 +123,7 @@
 
       <img class="student-about-us-inner" alt="" src="./public/group-7.svg" />
     </div>
+
+    <script src="js/student-about-us.js"></script>
   </body>
 </html>

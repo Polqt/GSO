@@ -341,6 +341,84 @@
   left: calc(50% - 82px);
 }
 
+.logout {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 45px;
+  height: 45px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition-duration: 0.3s;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.199);
+  background-color: RGB(29, 185, 84);
+  top: 775px;
+  left: 50px;
+}
+
+.sign {
+  width: 100%;
+  transition-duration: 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sign svg {
+  width: 18px;
+}
+
+.sign svg path {
+  fill: black;
+}
+
+.text {
+  position: absolute;
+  right: 0%;
+  width: 0%;
+  opacity: 0;
+  color: black;
+  font-size: 1.2em;
+  font-weight: 600;
+  transition-duration: 0.3s;
+}
+
+.logout:hover {
+  width: 125px;
+  border-radius: 40px;
+  transition-duration: 0.3s;
+}
+
+.logout:hover .sign {
+  width: 30%;
+  transition-duration: 0.3s;
+  padding-left: 20px;
+}
+
+.logout:hover .text {
+  opacity: 1;
+  width: 70%;
+  transition-duration: 0.3s;
+}
+
+.logout:active {
+  transform: translate(2px, 2px);
+}
+
+
+.dashboard8:hover, .dashboard8:focus,
+.tickets9:hover, .tickets9:focus,
+.notifications7:hover, .notifications7:focus,
+.messages1:hover, .messages1:focus,
+.services8:hover, .services8:focus,
+.files7:hover, .files7:focus,
+.settings8:hover, .settings8:focus {
+  color: RGB(29, 185, 84);
+}
+
 .about-us7,
 .help-support7,
 .settings30 {
